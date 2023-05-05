@@ -2,16 +2,23 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Dungeons_and_Dragons/Player",
+      "query": "path:Kargaroth_Azrael",
       "color": {
         "a": 1,
         "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:Levasa_Ashe",
+      "color": {
+        "a": 1,
+        "rgb": 65280
       }
     }
   ],
@@ -25,6 +32,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.2414540059102548,
-  "close": false
+  "scale": 0.13051064060238746,
+  "close": true
 }

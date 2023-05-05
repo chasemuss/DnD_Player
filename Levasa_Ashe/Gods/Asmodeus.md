@@ -21,7 +21,7 @@ locations:
 # Notes
 - Relationships: 
 	- Family
-		- [[Dungeons_and_Dragons/Player/Levasa_Razul/Azazel]] - Son
+		- [[Aza]] - Son
 - Motivations: 
 - Secrets: 
 - Quirks: 

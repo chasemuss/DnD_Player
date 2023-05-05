@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b024bc380067b4f6",
+        "id": "dc349e949538b136",
         "type": "tabs",
         "children": [
           {
-            "id": "3ed1f015837486bb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "73114edbad5657e5",
+            "id": "93652f26e33fe43b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "Levasa_Ashe/Gods/Asmodeus.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
+                "file": "Levasa_Ashe/Gods/Asmodeus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
+                "file": "Levasa_Ashe/Gods/Asmodeus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md"
+                "file": "Levasa_Ashe/Gods/Asmodeus.md"
               }
             }
           },
@@ -191,7 +182,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "73114edbad5657e5",
+  "active": "93652f26e33fe43b",
   "lastOpenFiles": [
     "Test.md",
     "Dungeons_and_Dragons/Player/Levasa_Razul/The Mew.md",
