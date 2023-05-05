@@ -1,0 +1,21 @@
+{
+  "ITS@@dis-tri-quote": true,
+  "ITS@@Header-Center": "none",
+  "ITS@@hash-top": false,
+  "ITS@@hd-indi": true,
+  "ITS@@hash-reg": false,
+  "ITS@@hd-ovr": false,
+  "ITS@@sphd-und-1": false,
+  "ITS@@sphd-und-2": true,
+  "ITS@@sphd-und-3": true,
+  "ITS@@sphd-und-4": true,
+  "ITS@@sphd-und-5": true,
+  "ITS@@sphd-und-6": true,
+  "ITS@@h-brdr": 2,
+  "ITS@@header-borders": false,
+  "ITS@@illusion-one": false,
+  "ITS@@slrvb-b": true,
+  "ITS@@slrvb-g": true,
+  "ITS@@s-d": true,
+  "ITS@@select": "wotc-beyond"
+}
