@@ -1,0 +1,11 @@
+{
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "_Templates/",
+    "Ashe's Brain"
+  ],
+  "newFileLocation": "root",
+  "showLineNumber": false,
+  "trashOption": "local",
+  "promptDelete": false
+}

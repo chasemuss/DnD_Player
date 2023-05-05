@@ -1,0 +1,28 @@
+---
+tags:
+- Race/God
+- Faction/Church_of_Bahamut
+alias:
+- Bahamut
+locations:
+- 
+---
+
+# Basic Info
+- Alignment
+
+## Notable Equipment
+- [Equipment Name]
+- [Equipment Name]
+- [Equipment Name]
+- [Equipment Name]
+- [Equipment Name]
+
+# Notes
+- Relationships: 
+	- Family
+- Motivations: 
+- Secrets: 
+- Quirks: 
+- Other notes: 
+

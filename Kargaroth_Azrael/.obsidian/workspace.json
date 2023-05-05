@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "2f1423282c6178f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5f7d584bf98aee0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2eec6599f65e1fbe",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3c16fa0586dbe77",
+    "type": "split",
+    "children": [
+      {
+        "id": "37b2883231035fe3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2859bfb45af1d8a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "01def76d94326950",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#God",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "975ab6c12fb9a011",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "2a3251d857cff5a5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "209966a51fb411fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "21bbb8748578e33b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2ac07031f24f54e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "27aa82891cef769d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "f193a8d53bc56fd4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b744a9771787241b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "0f26bf1ddb7deaa0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0af050fcf810841e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3ecae2fa380956ff",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 335.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "2eec6599f65e1fbe",
+  "lastOpenFiles": [
+    "Gods_Mouth/Characters/Ulneth.md",
+    "Transient Entities/Gods/Boaos, the Unknown Reaper.md",
+    "Session Notes/Pre-Great_Organization_Notes/_The Story.md",
+    "Behind the Divide/Behind the Divide.md",
+    "Behind the Divide/Characters/Vandiand, the Ambitious.md",
+    "Behind the Divide/Characters/Uxagi, the Controller.md",
+    "Unknown_Location/Characters/Uriphina.md",
+    "Behind the Divide/Characters/Tykemis, the Scientist.md",
+    "Behind the Divide/Characters/Solari, the White Moon.md",
+    "Behind the Divide/Characters/Seraphina, the Balanced.md",
+    "Behind the Divide/Characters/Phorsphoran, the Just.md",
+    "Behind the Divide/Characters/Onryx, the World Forger.md",
+    "Behind the Divide/Characters/Ochena, the Gentle.md",
+    "Behind the Divide/Characters/Nutari, the Hidden Moon.md",
+    "Behind the Divide/Characters/Leviathan, the Dragon God.md",
+    "Behind the Divide/Characters/Kyrena, the Naturalist.md",
+    "Unknown_Location/Characters/Kyrara.md",
+    "Behind the Divide/Characters/Kexdohr, the Warlord.md",
+    "Behind the Divide/Characters/Kehdea, the Red Moon.md",
+    "Behind the Divide/Characters/Itris, the Tinkerer.md",
+    "Unknown_Location/Characters/Hadulus.md",
+    "Unknown_Location/Characters/Gilford, the Platinum Dragon.md",
+    "Behind the Divide/Characters/Fanera, the Book.md",
+    "Artifacts/Collector, Death's Reach.md",
+    "Behind the Divide/Characters/Cijun, the Defiler.md",
+    "Behind the Divide/Characters/Chaos, the Infinite.md",
+    "The Party/Azrael_Monster_Stat_Block.png",
+    "Session Notes/Pre-Great_Organization_Notes/Kargaroth World Information.pdf",
+    "Shadowfell/Characters",
+    "Shadowfell",
+    "Gods_Mouth/Characters",
+    "Connections.canvas",
+    "Miscellaneous_Notes",
+    "Hell/Characters",
+    "Hell",
+    "Unknown_Location/Characters",
+    "Unknown_Location",
+    "Attachments/The Black Sun.jpg",
+    "Attachments/Derek, Niko's Bull.png",
+    "Attachments/Azrael.jpg",
+    "_Depricate_Characters/Gods/End.png",
+    "Artifacts/The_Atlas_of_Creation",
+    "Ishmanor/Points of Interest/Temple of Ochena 1st floor.png",
+    "Ishmanor/Points of Interest/Temple of Ochena 2.png",
+    "Ishmanor/Points of Interest/Temple of Ochena 4.png",
+    "Ishmanor/Points of Interest/Temple of Ochena Basement.png",
+    "Attachments/Kargaroth World Map.png",
+    "Untitled.canvas"
+  ]
+}

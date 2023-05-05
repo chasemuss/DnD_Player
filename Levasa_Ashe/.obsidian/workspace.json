@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "2f1423282c6178f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e355132efbdc37d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "473e2216e7c7359a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3c16fa0586dbe77",
+    "type": "split",
+    "children": [
+      {
+        "id": "37b2883231035fe3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2859bfb45af1d8a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "01def76d94326950",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Location/Windsend/The_Flurries",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "975ab6c12fb9a011",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "3ecae2fa380956ff",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "0af050fcf810841e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b744a9771787241b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 397.5
+  },
+  "right": {
+    "id": "209966a51fb411fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a9b4e0e4ce69259",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9306ad81f4d8b5de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c74b4d6bae43c557",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f193a8d53bc56fd4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 362.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "dbfolder:Create a new database table": false
+    }
+  },
+  "active": "473e2216e7c7359a",
+  "lastOpenFiles": [
+    "z_Templates/Quest_Template.md",
+    "Ashes_Brain.md",
+    "z_Templates/Session_Notes.md",
+    "z_Templates/Campaign_Template.md",
+    "z_Templates/Character_Template.md",
+    "z_Templates/Faction_Template.md",
+    "z_Templates/Homebrew_Template.md",
+    "z_Templates/Location_Template.md",
+    "Windsend/Characters/Therion.md",
+    "Unknown_Location/Characters/Razul_Dazulson.md",
+    "Player_Characters/Ingrid_Epensen.md",
+    "Player_Characters/Dedera_Free.md",
+    "Player_Characters/Ashe_Veilshifter.md",
+    "z Templates/Session Notes.md",
+    "Windsend/Factions/The_Gulls.md",
+    "Windsend/Factions/The_Crown.md",
+    "Windsend/Factions/The_Church_of_Chauntea.md",
+    "Windsend/Factions/The_Church_of_Bahamut.md",
+    "Windsend/Characters/Gustave_Epensen.md",
+    "Heartbeat/Factions/The_Formless_Brotherhood.md",
+    "Gods/The_Raven_Queen.md",
+    "_Session_Notes",
+    "z_Templates/Session Notes.md",
+    "z_Templates/Quest Template.md",
+    "z_Templates/Homebrew Template.md",
+    "z_Templates/Location Template.md",
+    "z_Templates/Faction Template.md",
+    "z_Templates",
+    "Unknown_Location/Factions",
+    "Unknown_Location/Characters",
+    "Unknown_Location",
+    "Player_Characters/Ashe_Portrait.png",
+    "Player_Characters",
+    "_Session Notes",
+    "Unknown Location/Characters",
+    "Unknown Location/Factions",
+    "Heartbeat/Factions",
+    "Player Characters/Ashe_Portrait.png",
+    "Heartbeat/Characters/Ophelia_Portrait.png",
+    "Windsend/Characters/Therion_Portrait.png",
+    "Locations/Temple of Ochena 1st floor.png",
+    "Locations/Temple of Ochena Basement.png",
+    "Locations/Temple of Ochena 2.png",
+    "Locations/Temple of Ochena 4.png",
+    "Pasted image 20230408003231.png",
+    "Connections.canvas",
+    "Azrael_Monster_Stat_Block.png",
+    "Untitled.canvas"
+  ]
+}
