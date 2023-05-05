@@ -9,7 +9,7 @@ alias:
 ---
 # Basic Info
 - Alignment: 
-- Met [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/The Party/Azrael]] when Azrael was in the Blue Crusade
+- Met [[The Party/Azrael]] when Azrael was in the Blue Crusade
 
 ## Physical Description
 - Height: 

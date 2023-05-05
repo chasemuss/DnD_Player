@@ -17,7 +17,7 @@ Doesn't know how the Wolke's got the glasses
 
 Suffers from the Curse of Majere
 
-Champion of [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Transient Entities/Gods/Boaos, the Unknown Reaper|Boaos]]
+Champion of [[Transient Entities/Gods/Boaos, the Unknown Reaper|Boaos]]
 
 Both Humanoid and Undead
 - Effects on one or the other work on her. 
@@ -36,7 +36,7 @@ Both Humanoid and Undead
 # Notes
 - Relationships: 
 	- Family
-	- Love Interest: [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/The Party/Azrael]]
+	- Love Interest: [[The Party/Azrael]]
 - Motivations: 
 - Secrets: 
 - Quirks: 

@@ -39,15 +39,15 @@ Many choose the path of balance or neutrality. Some groups choose to maintain ne
 # Notes
 - Relationships: 
 	- Family:
-		- Sibling - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Phorsphoran, the Just|Phorsphoran]]
-		- Sibling - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Vandiand, the Ambitious|Vandiand]]
+		- Sibling - [[Phorsphoran, the Just|Phorsphoran]]
+		- Sibling - [[Vandiand, the Ambitious|Vandiand]]
 		- Parent - [[Chaos, the Infinite|Chaos]]
-		- Child - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Fanera, the Book|Fanera]]
-		- Child - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Solari, the White Moon|Solari]]
-		- Child - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Nutari, the Hidden Moon|Nutari]]
-		- Child - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Kehdea, the Red Moon|Kehdea]]
-	- Voice: [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Levi]]
-	- Champion: [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Silothgroth/Characters/Lava]]
+		- Child - [[Fanera, the Book|Fanera]]
+		- Child - [[Solari, the White Moon|Solari]]
+		- Child - [[Nutari, the Hidden Moon|Nutari]]
+		- Child - [[Kehdea, the Red Moon|Kehdea]]
+	- Voice: [[Levi]]
+	- Champion: [[Lava]]
 - Motivations: 
 - Secrets: 
 - Quirks: 

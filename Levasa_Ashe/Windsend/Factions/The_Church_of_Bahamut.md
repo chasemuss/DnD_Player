@@ -7,7 +7,7 @@ home_base:
 - Windsend
 ---
 # Description
-The Church of Bahamut is an organization that is militaristic. They follow [[Dungeons_and_Dragons/Player/Levasa_Razul/Bahamut]]
+The Church of Bahamut is an organization that is militaristic. They follow [[Levasa_Ashe/Gods/Bahamut|Bahamut]]
 
 # Members
 

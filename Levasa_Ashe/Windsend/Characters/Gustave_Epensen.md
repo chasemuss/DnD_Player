@@ -20,7 +20,7 @@ alias:
 # Notes
 - Relationships: 
 	- Family
-		- [[Dungeons_and_Dragons/Player/Levasa_Razul/Ingrid Epensen]] - Daughter
+		- [[Ingrid_Epensen|Ingrid]] - Daughter
 - Motivations: 
 - Secrets: 
 - Quirks: 

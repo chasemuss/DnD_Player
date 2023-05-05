@@ -41,8 +41,8 @@ Most unknown of the Gods
 # Notes
 - Relationships: 
 	- Family
-	- Voice: [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/The Party/Solumn]]
-	- Champion: [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/The Party/Solumn]]
+	- Voice: [[The Party/Solumn]]
+	- Champion: [[The Party/Solumn]]
 - Motivations: 
 - Secrets: 
 - Quirks: 

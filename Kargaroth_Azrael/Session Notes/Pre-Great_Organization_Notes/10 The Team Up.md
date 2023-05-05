@@ -11,9 +11,9 @@ While talking, we learn that the [[The_Atlas_of_Creation|Book of True Names]] ca
 
 We spend time solving the puzzle box that Wynfrid put down, and find a key that leads to a demiplane. I push the door open and walk into a toymaker's workshop. The Toymaker asks who solved the puzzle, and Jack speaks up. The toymaker thinks that Jack is [[Xinzounux]]. Jack says he is here for the Keeper's Tome. The toymaker gives the puzzle box (and the demiplane workshop) to Jack. He also gives the book to Jack who gives the book to [[Meridian]]. 
 
-Lykin makes a simulacrum of [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Silothgroth/Characters/Lava]]. 
+Lykin makes a simulacrum of [[Lava]]. 
 
-[[Dungeons_and_Dragons/Player/Kargaroth_Azrael/The Party/Clay]], [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/The Party/Lykin]], and [[Wynfrid Wolke]] go to [[Lily of the Field]] and he gives them a tour of the temple, showing that the Spark of Divinity is the pool of [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Ochena, the Gentle|Ochena]] at the bottom of the temple. 
+[[The Party/Clay]], [[The Party/Lykin]], and [[Wynfrid Wolke]] go to [[Lily of the Field]] and he gives them a tour of the temple, showing that the Spark of Divinity is the pool of [[Behind the Divide/Characters/Ochena, the Gentle|Ochena]] at the bottom of the temple. 
 
 They find a variety of monsters and traps in the temple. At the top of the temple, they find a gold & silver tree. 
 

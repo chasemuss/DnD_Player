@@ -1,4 +1,4 @@
-[[Dungeons_and_Dragons/Player/Kargaroth_Azrael/The Party/Solumn]] gets info from [[Yondu]] and [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/The Party/Niko]] gets info as a blacksmith. 
+[[Solumn]] gets info from [[Yondu]] and [[Niko]] gets info as a blacksmith. 
 
 _Solumn's Info_:
 - Yondu gets us to a contact that takes us to Hell
@@ -7,13 +7,13 @@ _Niko's Info_:
 - The entrance to the underground cave is behind a waterfall but is only visible by the light of the full moon. 
 As Solumn tries to get away from _SOMEONE_, a man with glowing blue eyes follows him. 
 
-Wynfrid comes back to camp and requests help. So [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/The Party/Set]] and [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/The Party/Azrael]] tag along to help be "intimidating" in her meeting with [[Yondu]]. 
+Wynfrid comes back to camp and requests help. So [[Set]] and [[Azrael]] tag along to help be "intimidating" in her meeting with [[Yondu]]. 
 
 We reach Yondu shop. As we enter, he appears to be talking into a sending stone, but abruptly stops when we enter. He recognizes [[Wynfrid Wolke]] and asks about her family. 
 
 Yondu mentions that he has been working with Drar consistently. Wynfrid announces that the _Wolke Empire_ is rising again. 
 
-Wynfrid commands Yondu to set up a meeting with [[Drar'Gith]] and he refuses. She calls on his history with her family and he finally relents. He mentions [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Teralis]] as the way to get us into and out of hell. Yondu mentions that Teralis will be here tonight. Yondu says that he'll give us a letter of introduction for [[Drar'Gith]].
+Wynfrid commands Yondu to set up a meeting with [[Drar'Gith]] and he refuses. She calls on his history with her family and he finally relents. He mentions [[Teralis]] as the way to get us into and out of hell. Yondu mentions that Teralis will be here tonight. Yondu says that he'll give us a letter of introduction for [[Drar'Gith]].
 
 Solumn (while poisoned / drunk) bumps into us and throws up on me. He drops a rock near me. I cure him of his drunkenness and he says that he is being followed by someone with magic. 
 
@@ -30,7 +30,7 @@ After a bit longer, the remainder of us make our way to the Black Market.
 
 **I help a guard git gud by teaching him about armor and weapons.
 
-We find Yondu and he guides us to [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Teralis]]. He asks where we are trying to go, and Wynfrid says "Hell to see [[Drar'Gith]]"
+We find Yondu and he guides us to [[Teralis]]. He asks where we are trying to go, and Wynfrid says "Hell to see [[Drar'Gith]]"
 - We know where he is in hell and Teralis can take us as close as a mile to his lands. 
 Wynfrid & Teralis make an agreement that Teralis will take us to hell in 10 hours for 12 hours if able. 
 
@@ -50,5 +50,5 @@ Final Result:
 | Codex from _Atlas of Creation_              | 10,000,000 GP                                     | 
 | Records of where Wolke Goods are            | Dalamar's Phylactery                              |
 
-Have we heard of [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Session Notes/Pre-Great_Organization_Notes/Great God War#The Legendary Hero Xinzounux.|Xinzounux]]? He tells us more information about him. 
+Have we heard of [[Session Notes/Pre-Great_Organization_Notes/Great God War#The Legendary Hero Xinzounux.|Xinzounux]]? He tells us more information about him. 
 

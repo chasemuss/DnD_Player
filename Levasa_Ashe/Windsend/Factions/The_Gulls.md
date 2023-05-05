@@ -15,4 +15,4 @@ A gang in Windsend, they commit petty crimes but have grown bolder, willing to s
 - [[Arkos]]
 
 ## Former Members
-- [[Ashe Veilshifter|Ashe]]
+- [[Ashe_Veilshifter]]

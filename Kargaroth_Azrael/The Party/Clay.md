@@ -15,13 +15,13 @@ Drow are a matriarchal society being a male he could never hold any real positio
 
 Suffers from the Curse of Majere
 ## Death View
-- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Silothgroth/Characters/Lava|Lava]] doesn't die when he looks at her
-- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Silothgroth/Characters/Sarada]] grows up to be Lava
-- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/The Party/Niko]] changes between herself and an egg
+- [[Lava|Lava]] doesn't die when he looks at her
+- [[Sarada]] grows up to be Lava
+- [[Niko]] changes between herself and an egg
 - [[Wynfrid Wolke]] does not die after taking on Boaos's power
 
 ## Conversations in Niko's Hut
-[[Dungeons_and_Dragons/Player/Kargaroth_Azrael/The Party/Clay]] rushes to his side and asks if he is awake, but gets no response. Clay begins to remove the bandages while the man struggles to stop him. Once the bandages are removed, his face is revealed to be severely burned (like Deadpool). Clay mentions that the man may be his grandfather, Valian. Clay draws Atherius and asks if it is his sword, but the man says it _was_. The man says that he is not Valian when asked. Clay asks who he is and he says his name is Valdorn until his father killed him, establishing the man as Clay's father. Clay proceeds to unwrap more of the bandages, showing off burned, damaged draw skin. Valdorn says he doesn't know who Clay is when asked. Clay proceeds to put Atherius to Valdorn 's neck and asks the sword if he knows who he is and if he still holds his sword. Atherius responds that he does for both. 
+[[Clay]] rushes to his side and asks if he is awake, but gets no response. Clay begins to remove the bandages while the man struggles to stop him. Once the bandages are removed, his face is revealed to be severely burned (like Deadpool). Clay mentions that the man may be his grandfather, Valian. Clay draws Atherius and asks if it is his sword, but the man says it _was_. The man says that he is not Valian when asked. Clay asks who he is and he says his name is Valdorn until his father killed him, establishing the man as Clay's father. Clay proceeds to unwrap more of the bandages, showing off burned, damaged draw skin. Valdorn says he doesn't know who Clay is when asked. Clay proceeds to put Atherius to Valdorn 's neck and asks the sword if he knows who he is and if he still holds his sword. Atherius responds that he does for both. 
 
 Clay then uses Atherius to impart knowledge onto Valdorn . Valdorn calls Clay by an alternative name, Valdamir. Clay asks why Valdorn left him with Valian, and Valdorn says it was because he (Valdorn) wasn't strong enough. Valdorn says that Valian killed him a decade after Valdorn gave Clay to Valian. Clay's mother's status is unknown. Valian was not with the Blue Crusade. 
 
@@ -35,7 +35,6 @@ Valdorn mentions that he is a Revenant.
 ## Notable Equipment
 - [[Atherius]]
 - Mantle of Spell Resistance
-- 
 - [Equipment Name]
 - [Equipment Name]
 - [Equipment Name]
@@ -43,7 +42,7 @@ Valdorn mentions that he is a Revenant.
 # Notes
 - Relationships: 
 	- Family:
-		- Father - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Valdorn]]
+		- Father - [[Valdorn]]
 		- Grandfather - [[Valian]]
 		- Mother - [[Ziclana]]
 - Motivations: 
@@ -51,10 +50,6 @@ Valdorn mentions that he is a Revenant.
 - Quirks: 
 
 ## Other Notes
-
-
-
-![[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Cijun, the Defiler#Artifact - Atherius|Atherius]]
 
 
 

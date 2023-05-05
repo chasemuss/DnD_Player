@@ -28,34 +28,34 @@ alias:
 Major gods power does not ebb or flow based on mortals under their sphere of influence.
 
 - [[Chaos, the Infinite]]
-- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Phorsphoran, the Just]]
-- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Vandiand, the Ambitious]]
-- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Seraphina, the Balanced]]
+- [[Phorsphoran, the Just]]
+- [[Vandiand, the Ambitious]]
+- [[Seraphina, the Balanced]]
 
 ### Minor Gods
 Minor gods are generally more powerful than Lesser gods, though a fraction of their power is dependent on their Champion and Voice.
 
-- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Onryx, the World Forger]]
-- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Itris, the Tinkerer]]
-- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Aterna, the Wonderstruck|Aterna]]
-- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Uxagi, the Controller]]
-- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Acaria, the Jealous|Acaria]]
-- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Kexdohr, the Warlord]]
-- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Fanera, the Book]]
-- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Solari, the White Moon]]
-- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Nutari, the Hidden Moon]]
-- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Kehdea, the Red Moon]]
+- [[Onryx, the World Forger]]
+- [[Itris, the Tinkerer]]
+- [[Aterna, the Wonderstruck|Aterna]]
+- [[Uxagi, the Controller]]
+- [[Acaria, the Jealous|Acaria]]
+- [[Kexdohr, the Warlord]]
+- [[Fanera, the Book]]
+- [[Solari, the White Moon]]
+- [[Nutari, the Hidden Moon]]
+- [[Kehdea, the Red Moon]]
 
 ### Lesser Gods
 Lesser gods have a certain amount of power, though they gain and lose power based on the number of followers they have.
 
-- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Byvitar, the Trickster]]
-- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Zicarae, the Torturer]]
-- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Ochena, the Gentle]]
-- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Tykemis, the Scientist]]
-- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Kyrena, the Naturalist]]
-- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Cijun, the Defiler]]
+- [[Byvitar, the Trickster]]
+- [[Zicarae, the Torturer]]
+- [[Ochena, the Gentle]]
+- [[Tykemis, the Scientist]]
+- [[Kyrena, the Naturalist]]
+- [[Cijun, the Defiler]]
 
 ### Not Catagorized
-- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Transient Entities/Gods/Boaos, the Unknown Reaper]]
-- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Leviathan, the Dragon God]]
+- [[Boaos, the Unknown Reaper]]
+- [[Leviathan, the Dragon God]]

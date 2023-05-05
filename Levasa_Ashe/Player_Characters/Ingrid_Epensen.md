@@ -26,7 +26,7 @@ alias:
 # Notes
 - Relationships: 
 	- Family
-		- [[Dungeons_and_Dragons/Player/Levasa_Razul/Gustave Epensen]] - Father
+		- [[Gustave_Epensen]] - Father
 - Motivations: 
 - Secrets: 
 - Quirks: 

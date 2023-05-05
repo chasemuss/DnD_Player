@@ -1,7 +1,7 @@
 ---
 tags:
 - Location/Behind_the_Divide
-- God/Kyrena/Artifact/Unknown
+- God/Kyrena
 alias:
 - Kyrena
 ---

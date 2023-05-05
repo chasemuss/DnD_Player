@@ -14,6 +14,6 @@ A much smaller group mostly splintered off from the Cobalt Cascade but still ver
 - Illuminati-esque world take over via legislature
 
 # Members
-Leader: [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Transient Entities/Factions/Blue Crusade/Lapis Legion/Members/Lucarian]]
+Leader: [[Transient Entities/Factions/Blue Crusade/Lapis Legion/Members/Lucarian]]
 
 ## Former Members

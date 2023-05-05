@@ -28,8 +28,8 @@ On Lava's death, inherits all of Lava's powers
 # Notes
 - Relationships: 
 	- Family
-		- Mother - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Silothgroth/Characters/Lava]]
-		- Half-Sibling - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Cinder]]
+		- Mother - [[Silothgroth/Characters/Lava]]
+		- Half-Sibling - [[Cinder]]
 - Motivations: 
 - Secrets: 
 - Quirks: 

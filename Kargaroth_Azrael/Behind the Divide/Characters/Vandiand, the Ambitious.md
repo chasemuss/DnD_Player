@@ -1,7 +1,7 @@
 ---
 tags:
 - Location/Behind_the_Divide
-- God/Vandiand/Artifact/Unknown
+- God/Vandiand
 alias:
 - Vandiand
 ---
@@ -38,10 +38,10 @@ His followers are ambitions and power hunger, they follow Vandiand in order to g
 # Notes
 - Relationships: 
 	- Family
-		- Sibling / Rival - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Phorsphoran, the Just|Phorsphoran]]
-		- Child - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Uxagi, the Controller|Uxagi]]
-		- Child - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Acaria, the Jealous|Acaria]]
-		- Child - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Kexdohr, the Warlord]]
+		- Sibling / Rival - [[Phorsphoran, the Just|Phorsphoran]]
+		- Child - [[Uxagi, the Controller|Uxagi]]
+		- Child - [[Acaria, the Jealous|Acaria]]
+		- Child - [[Kexdohr, the Warlord]]
 	- Voice: 
 	- Champion: 
 - Motivations: 

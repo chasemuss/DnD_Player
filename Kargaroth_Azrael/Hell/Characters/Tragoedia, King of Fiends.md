@@ -24,9 +24,9 @@ All princes/princesses of the Abyss & Hell are his children
 # Notes
 - Relationships: 
 	- Family
-		- Father - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Vandiand, the Ambitious|Vandiand]]
-		- Child - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Hell/Characters/Asmodeus]]
-		- Child - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Cinder]]
+		- Father - [[Behind the Divide/Characters/Vandiand, the Ambitious|Vandiand]]
+		- Child - [[Hell/Characters/Asmodeus]]
+		- Child - [[Cinder]]
 - Motivations: 
 - Secrets: 
 - Quirks: 

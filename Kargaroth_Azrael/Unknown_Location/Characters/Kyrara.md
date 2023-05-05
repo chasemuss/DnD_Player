@@ -23,7 +23,7 @@ Can perform _True Resurrection_
 # Notes
 - Relationships: 
 	- Family
-	- Champion & Voice - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Ochena, the Gentle|Ochena]]
+	- Champion & Voice - [[Behind the Divide/Characters/Ochena, the Gentle|Ochena]]
 - Motivations: 
 - Secrets: 
 - Quirks: 

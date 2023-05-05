@@ -19,7 +19,7 @@ alias:
 # Notes
 - Relationships: 
 	- Family
-		- [[Ashe Veilshifter|Ashe]] - Brother
+		- [[Ashe_Veilshifter|Ashe]] - Brother
 		- Cyrus (Dead) - Father
 		- Haanit (Dead) - Mother
 - Motivations: Protect his little brother

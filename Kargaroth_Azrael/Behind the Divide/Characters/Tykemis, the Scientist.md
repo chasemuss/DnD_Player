@@ -1,7 +1,7 @@
 ---
 tags:
 - Location/Behind_the_Divide
-- God/Tykemis/Artifact/Unknown
+- God/Tykemis
 alias:
 - Tykemis
 ---

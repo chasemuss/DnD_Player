@@ -10,7 +10,7 @@ alias:
 # Basic Info
 - Alignment: 
 
-Made a deal with [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Cijun, the Defiler|Cijun]] that he would retrieve [[Atherius]] and give it to [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Ylorb]] as his contribution to [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Cijun, the Defiler|Cijun]]'s [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Miscellaneous_Notes/Gods' Vessels|vessel]]. 
+Made a deal with [[Behind the Divide/Characters/Cijun, the Defiler|Cijun]] that he would retrieve [[Atherius]] and give it to [[Ylorb]] as his contribution to [[Behind the Divide/Characters/Cijun, the Defiler|Cijun]]'s [[Miscellaneous_Notes/Gods' Vessels|vessel]]. 
 
 
 ## Notable Equipment
@@ -23,7 +23,7 @@ Made a deal with [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divid
 # Notes
 - Relationships: 
 	- Family
-		- Child - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/The Party/Clay]]
+		- Child - [[The Party/Clay]]
 - Motivations: 
 - Secrets: 
 - Quirks: 

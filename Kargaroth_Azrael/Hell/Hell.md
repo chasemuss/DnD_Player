@@ -40,6 +40,6 @@ Best way to traverse hell is to make a deal
 - [Note]
 
 # Notable People
-- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Hell/Characters/Asmodeus]]
+- [[Hell/Characters/Asmodeus]]
 - [[Drar'Gith|Drar]]
-- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/The Party/Niko]]
+- [[The Party/Niko]]

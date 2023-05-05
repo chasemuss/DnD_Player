@@ -19,9 +19,9 @@ After the frustration that is negotiating with Drar, we decide to teleport out a
 
 While there, we meet Cecelia, a master Diviner. I touch the Master Scrying Crystal Ball and see a large variety of Aterna centered foci. 
 
-We get to her office and tell her about [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/The Party/Solumn]]'s relationship with [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Byvitar, the Trickster]]. After that explanation, she starts scrying [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Vera]] and tells us that she is in a caravan with a [[Unsorted/D&D_Kargaroth/Factions/Blue Crusade]] emblem. Cecelia then gives [[Meridian]] the knowledge of Vera's location. 
+We get to her office and tell her about [[Solumn]]'s relationship with [[Byvitar, the Trickster]]. After that explanation, she starts scrying [[Vera]] and tells us that she is in a caravan with a [[Blue Crusade]] emblem. Cecelia then gives [[Meridian]] the knowledge of Vera's location. 
 
-With that, Meridian tries to teleport us to Vera but throws us off course and we land in the ocean, with [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/The Party/Azrael]] sinking us because he has the bronze armor. While sinking, Meridian cast teleport again and got us on target to Vera. We find her and Solumn talks with her in regards to her weapon. 
+With that, Meridian tries to teleport us to Vera but throws us off course and we land in the ocean, with [[Azrael]] sinking us because he has the bronze armor. While sinking, Meridian cast teleport again and got us on target to Vera. We find her and Solumn talks with her in regards to her weapon. 
 
 She wants the following trade:
 |     **She Gets**      |         **We Get**          |

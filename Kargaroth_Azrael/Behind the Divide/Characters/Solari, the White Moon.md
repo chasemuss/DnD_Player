@@ -1,7 +1,7 @@
 ---
 tags:
 - Location/Behind_the_Divide
-- God/Solari/Artifact/Unknown
+- God/Solari
 alias:
 - Solari
 ---
@@ -32,10 +32,10 @@ alias:
 # Notes
 - Relationships: 
 	- Family:
-		- Sibling - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Nutari, the Hidden Moon|Nutari]]
-		- Sibling - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Fanera, the Book|Fanera]]
-		- Sibling - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Kehdea, the Red Moon|Kehdea]]
-		- Mother - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Seraphina, the Balanced|Seraphina]]
+		- Sibling - [[Behind the Divide/Characters/Nutari, the Hidden Moon|Nutari]]
+		- Sibling - [[Behind the Divide/Characters/Fanera, the Book|Fanera]]
+		- Sibling - [[Behind the Divide/Characters/Kehdea, the Red Moon|Kehdea]]
+		- Mother - [[Behind the Divide/Characters/Seraphina, the Balanced|Seraphina]]
 	- Voice: 
 	- Champion: 
 - Motivations: 

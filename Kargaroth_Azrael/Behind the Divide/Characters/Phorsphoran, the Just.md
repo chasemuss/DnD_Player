@@ -1,7 +1,7 @@
 ---
 tags:
 - Location/Behind_the_Divide
-- God/Phorsphoran/Artifact/Unknown
+- God/Phorsphoran
 alias:
 - Phorsphoran
 ---
@@ -23,7 +23,7 @@ Phorsphoran was the first born by [[Chaos, the Infinite|Chaos]] and the pinnacle
 ## Creations
 - Angels
 	- Valkyrie (His favorite)
-		- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Valkyria]]
+		- [[Valkyria]]
 - Aasimar (a fusion between man and angel)
 
 ## Followers
@@ -39,11 +39,11 @@ Communicate with him via his angelic hierarchy, his word is written in celestial
 # Notes
 - Relationships: 
 	- Family
-		- Child - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Onryx, the World Forger|Onryx]]
-		- Child - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Itris, the Tinkerer|Itris]]
-		- Child - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Aterna, the Wonderstruck|Aterna]]
-		- Sibling / Rival - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Vandiand, the Ambitious|Vandiand]]
-		- Sibling / Mediator - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Seraphina, the Balanced|Seraphina]]
+		- Child - [[Onryx, the World Forger|Onryx]]
+		- Child - [[Itris, the Tinkerer|Itris]]
+		- Child - [[Aterna, the Wonderstruck|Aterna]]
+		- Sibling / Rival - [[Vandiand, the Ambitious|Vandiand]]
+		- Sibling / Mediator - [[Seraphina, the Balanced|Seraphina]]
 	- Voice: 
 	- Champion: 
 - Motivations: 

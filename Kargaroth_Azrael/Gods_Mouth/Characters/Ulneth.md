@@ -10,9 +10,9 @@ alias:
 # Basic Info
 - Alignment: 
 
-[[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Uxagi, the Controller|Uxagi]]'s champion.  (Not really)
+[[Uxagi, the Controller|Uxagi]]'s champion.  (Not really)
 
-[[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Byvitar, the Trickster]] tricked him into thinking it was Uxagi when it was actually [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Onryx, the World Forger|Onryx]]. [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Burflun]] has the other half of the Axe that Ulneth wields. 
+[[Byvitar, the Trickster]] tricked him into thinking it was Uxagi when it was actually [[Onryx, the World Forger|Onryx]]. [[Burflun]] has the other half of the Axe that Ulneth wields. 
 
 
 ## Notable Equipment
@@ -25,7 +25,7 @@ alias:
 # Notes
 - Relationships: 
 	- Family
-		- Child - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Ylorb]]
+		- Child - [[Ylorb]]
 - Motivations: 
 - Secrets: 
 - Quirks: 

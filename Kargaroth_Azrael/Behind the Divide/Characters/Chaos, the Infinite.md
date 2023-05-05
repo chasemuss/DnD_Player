@@ -1,7 +1,7 @@
 ---
 tags:
 - Location/Behind_the_Divide
-- God/Chaos/Artifact/Unknown
+- God/Chaos
 alias:
 - Chaos
 ---
@@ -34,9 +34,9 @@ Chaos wants to consume everything and the world is the only thing that he doesn'
 # Notes
 - Relationships: 
 	- Family
-		- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Phorsphoran, the Just|Phorsphoran]] - Child
-		- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Seraphina, the Balanced|Seraphina]] - Child
-		- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Vandiand, the Ambitious|Vandiand]] - Child
+		- [[Behind the Divide/Characters/Phorsphoran, the Just|Phorsphoran]] - Child
+		- [[Behind the Divide/Characters/Seraphina, the Balanced|Seraphina]] - Child
+		- [[Behind the Divide/Characters/Vandiand, the Ambitious|Vandiand]] - Child
 	- Voice: 
 	- Champion: 
 - Motivations: 

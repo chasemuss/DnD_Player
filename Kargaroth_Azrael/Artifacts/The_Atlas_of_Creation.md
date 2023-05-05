@@ -9,8 +9,8 @@
 
 | Codex Name                                 | Tome Name                               | Current Owner                          |
 | ------------------------------------------ | --------------------------------------- | -------------------------------------- |
-| Codex Phantasm (Illusion)                  | [[Tome of Lies]] (Tome of Trickery)     | [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Lolth]]                              |
-| Codex Phantasm (Illusion)                  | Tome of False Truths (Tome of Illusion) | (Most Likely) [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/The Party/Lykin]]               |
+| Codex Phantasm (Illusion)                  | [[Tome of Lies]] (Tome of Trickery)     | [[Lolth]]                              |
+| Codex Phantasm (Illusion)                  | Tome of False Truths (Tome of Illusion) | (Most Likely) [[Lykin]]               |
 | Equinox (Transmutation)                    | Alpha ([[Tome of Reality]])             | [[Lily of the Field]]                  |
 | Equinox (Transmutation)                    | Omega (Tome of Time)                    |                                        |
 | Grimoire of the Elements (Evocation)       | Ignus (Tome of Fire)                    | High Ranking Fire Elemental            |
@@ -23,10 +23,10 @@
 | Kyukyoku (Abjuration)                      | Tome of Binding                         |                                        |
 | Mangekyou (Enchantment)                    | Glimmer (Tome of Charm)                 |                                        |
 | Mangekyou (Enchantment)                    | Memoire (Tome of Mind)                  |                                        |
-| ==[[Necronomicon]] (Necromancy)==          | ==Tome of the Dead & Tome of Undeath==  | ==[[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Dalamar]]==                        |
-| Opus Divine (Divination)                   | Tome of Omen                            | [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Dalamar]] has this according to Drar |
+| ==[[Necronomicon]] (Necromancy)==          | ==Tome of the Dead & Tome of Undeath==  | ==[[Dalamar]]==                        |
+| Opus Divine (Divination)                   | Tome of Omen                            | [[Dalamar]] has this according to Drar |
 | Opus Divine (Divination)                   | Tome of Oracle                          |                                        |
 | ==[[The Book of True Names]] (Transmutation)== | ==Tome of Summoning & Space==               | ==[[Meridian]]==                           |
 
 ---
-[[Dungeons_and_Dragons/Player/Kargaroth_Azrael/The Party/Lykin]] has a tome, but it is unknown. Most likely _Tome of False Truths_
+[[The Party/Lykin]] has a tome, but it is unknown. Most likely _Tome of False Truths_

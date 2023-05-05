@@ -1,7 +1,7 @@
 # The Story before Notes
-[[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Session Notes/Pre-Great_Organization_Notes/Kargaroth World Information.pdf]]
+[[Kargaroth World Information.pdf]]
 ## Map of Kargaroth
-![[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Attachments/Kargaroth World Map.png]]
+![[Kargaroth World Map.png]]
 ## Kargaroth History
 ### The Campaign Thus Far
 This section will be divided up into the major arcs, each will have a section for general information anyone in the outside world could know about the party and their accomplishments and a section of meta-game material that goes in more detail about the things they have and haven’t completed. If a particular arc interests you, and that’s the arc you want to tie your character into the party with feel free to give it a read. If you’re just the type of person who wants to get a better sense of what’s going on and how everything has been working out so far, that’s also fine, but the meta material is optional.

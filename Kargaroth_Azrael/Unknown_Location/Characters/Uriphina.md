@@ -20,7 +20,7 @@ alias:
 # Notes
 - Relationships: 
 	- Family
-	- Champion - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Kyrena, the Naturalist|Kyrena]]
+	- Champion - [[Behind the Divide/Characters/Kyrena, the Naturalist|Kyrena]]
 - Motivations: 
 - Secrets: 
 - Quirks: 

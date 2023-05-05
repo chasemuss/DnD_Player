@@ -1,14 +1,14 @@
 # Gilford's Dreamscape
 Gilford tells us the following:
-- Person we should most worry about is [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Kuriboh]]
-* Person who is beneficial for us to know is [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Kyrara]]
-* A person to be aware of is [[Unsorted/D&D_Kargaroth/Characters/NPCs/Pierre]]
+- Person we should most worry about is [[Kuriboh]]
+* Person who is beneficial for us to know is [[Kyrara]]
+* A person to be aware of is [[Pierre]]
 * He is intimate with all the gods
-* We obviously didn't ask for your help beforehand, but is there anything Gilford learned during this battle? Notes can be found [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Hadulus|here]]
+* We obviously didn't ask for your help beforehand, but is there anything Gilford learned during this battle? Notes can be found [[Hadulus|here]]
 * Are there any thoughts / concerns on how we as a team can do better? Our greatest weakness & strength is our individuality
-* Why did Hadulus want to talk instead of fight? Can we exploit his desire to converse? Answer can be found [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Hadulus|here]]
+* Why did Hadulus want to talk instead of fight? Can we exploit his desire to converse? Answer can be found [[Hadulus|here]]
 * The last Gilford heard, the rest of Ulneth's Hammer was with the dwarves as an heirloom of the king
-* Gilford offers [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Seraphina, the Balanced#Artifact|Ataraxia, the Dragonlance]] to the party and Solumn accepts it
+* Gilford offers [[Behind the Divide/Characters/Seraphina, the Balanced#Artifact|Ataraxia, the Dragonlance]] to the party and Solumn accepts it
 
 # Waking up
 We wake up from Gilford's Dreamscape to the sound of 2 men laughing. 
@@ -27,7 +27,7 @@ Clay & I lead the party towards the 2 Elves (Uriel & Mariah) who stand to attent
 - Lava and Draharek are reinforcing cities
 - Zicara may be defeated by next year
 Their commanding officer is Illyrden
-- Illyrden knows [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/The Party/Lykin]] from Lykin's military days. 
+- Illyrden knows [[Lykin]] from Lykin's military days. 
 
 # Waking Up
 As we leave the cave, we see the 5 man band (Ylorb + Crew) fighting the elves that are stationed here. 
@@ -38,7 +38,7 @@ collapse: closed
 We last faught them in Silathgroth and Lava had to save our asses
 ```
 
-## Fight with [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Ylorb]]
+## Fight with [[Ylorb]]
 
 ```ad-note
 title: Quick Combat Data

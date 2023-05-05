@@ -1,7 +1,7 @@
 ---
 tags:
 - Location/Behind_the_Divide
-- God/Kehdea/Artifact/Unknown
+- God/Kehdea
 alias:
 - Kehdea
 ---

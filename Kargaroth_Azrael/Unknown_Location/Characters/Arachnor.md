@@ -10,7 +10,7 @@ alias:
 # Basic Info
 - Alignment: 
 
-Servant of [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Zicarae, the Torturer|Zicarae]]
+Servant of [[Behind the Divide/Characters/Zicarae, the Torturer|Zicarae]]
 
 ## Notable Equipment
 - [Equipment Name]

@@ -11,7 +11,7 @@ alias:
 
 De facto ruler of [[Ishmanor]]
 
-A student of [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Dalamar]] of the lineage of [[Xinzounux]]. He betrayed Dalamar and helped the party against him. 
+A student of [[Dalamar]] of the lineage of [[Xinzounux]]. He betrayed Dalamar and helped the party against him. 
 
 He works with the matron mothers of the drow empire. 
 
@@ -40,7 +40,7 @@ In possession of the Tome of Reality
 # Notes
 - Relationships: 
 	- Family
-	- Master: [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Dalamar]]
+	- Master: [[Dalamar]]
 - Motivations: 
 - Secrets: 
 - Quirks: 

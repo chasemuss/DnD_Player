@@ -13,7 +13,7 @@ They’re the organization of war and suffering, they are the ones who do workin
 - Kill all who disagree with us to achieve peace
 
 # Members
-- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Transient Entities/Factions/Blue Crusade/Cobalt Cascade/Members/Rimadalf]]
+- [[Transient Entities/Factions/Blue Crusade/Cobalt Cascade/Members/Rimadalf]]
 
 ## Former Members
-- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/The Party/Azrael]]
+- [[The Party/Azrael]]

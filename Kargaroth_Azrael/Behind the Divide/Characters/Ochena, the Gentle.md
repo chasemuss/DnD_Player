@@ -1,7 +1,7 @@
 ---
 tags:
 - Location/Behind_the_Divide
-- God/Ochena/Artifact/Unknown
+- God/Ochena
 alias:
 - Ochena
 ---

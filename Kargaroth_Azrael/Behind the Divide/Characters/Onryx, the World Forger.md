@@ -35,8 +35,8 @@ alias:
 - Relationships: 
 	- Family
 	- Voice: 
-	- Champion: [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Burflun]]
-		- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Gods_Mouth/Characters/Ulneth]] is challenging this position
+	- Champion: [[Burflun]]
+		- [[Ulneth]] is challenging this position
 - Motivations: 
 - Secrets: 
 - Quirks: 

@@ -1,7 +1,7 @@
 ---
 tags:
 - Location/Behind_the_Divide
-- God/Kexdohr/Artifact/Unknown
+- God/Kexdohr
 alias:
 - 
 ---

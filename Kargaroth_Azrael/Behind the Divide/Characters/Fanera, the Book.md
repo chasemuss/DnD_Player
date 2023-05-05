@@ -1,7 +1,7 @@
 ---
 tags:
 - Location/Behind_the_Divide
-- God/Fanera/Artifact/Unknown
+- God/Fanera
 alias:
 - Fanera
 ---
@@ -30,10 +30,10 @@ alias:
 # Notes
 - Relationships: 
 	- Family: 
-		- Sister - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Nutari, the Hidden Moon|Nutari]]
-		- Sister - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Solari, the White Moon|Solari]]
-		- Sister - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Kehdea, the Red Moon|Kehdea]]
-		- Mother - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Seraphina, the Balanced|Seraphina]]
+		- Sister - [[Behind the Divide/Characters/Nutari, the Hidden Moon|Nutari]]
+		- Sister - [[Behind the Divide/Characters/Solari, the White Moon|Solari]]
+		- Sister - [[Behind the Divide/Characters/Kehdea, the Red Moon|Kehdea]]
+		- Mother - [[Behind the Divide/Characters/Seraphina, the Balanced|Seraphina]]
 		- Husband - [[Xinzounux]]
 	- Voice: 
 	- Champion: 

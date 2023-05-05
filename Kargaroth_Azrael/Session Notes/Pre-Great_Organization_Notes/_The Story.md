@@ -2,16 +2,16 @@
 alias: The Story
 ---
 # The Story before Notes
-[[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Session Notes/Pre-Great_Organization_Notes/Kargaroth World Information.pdf]]
+[[Kargaroth World Information.pdf]]
 ## Map of Kargaroth
-![[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Attachments/Kargaroth World Map.png]]
+![[Kargaroth World Map.png]]
 ## Kargaroth History
 ### The Campaign Thus Far
 This section will be divided up into the major arcs, each will have a section for general information anyone in the outside world could know about the party and their accomplishments and a section of meta-game material that goes in more detail about the things they have and haven’t completed. If a particular arc interests you, and that’s the arc you want to tie your character into the party with feel free to give it a read. If you’re just the type of person who wants to get a better sense of what’s going on and how everything has been working out so far, that’s also fine, but the meta material is optional.
 
 #### The Spider Den Arc
 
-This is the arc the party formed, everyone for whatever reason found themselves in Silathgroth there a scouting operation was being conducted, but the elven army hadn’t officially moved in yet so they recruited adventures and mercenaries. Every team heads out with an army official. The party goes out with their Blood Guard (the rank below the lowest officer) Raelrinn. Of course it turned out Raelrinn had been murder and in his place a drow operative was stand in. The first arc was mostly a dungeon crawl, they fought an arachnomaner who is basically an officer of the Zicarae forces. 
+This is the arc the party formed, everyone for whatever reason found themselves in Silathgroth there a scouting operation was being conducted, but the elven army hadn’t officially moved in yet so they recruited adventures and mercenaries. Every team heads out with an army official. The party goes out with their Blood Guard (the rank below the lowest officer) Raelrinn. Of course it turned out Raelrinn had been murder and in his place a [[drow]] operative was stand in. The first arc was mostly a dungeon crawl, they fought an arachnomaner who is basically an officer of the [[Zicarae, the Torturer|Zicarae]] forces. 
 ```ad-note
 title: Meta
 collapse: close
@@ -19,9 +19,9 @@ collapse: close
 Raelrinn has been reincarnated twice now, and it seems he’s been promoted, but he’s definitely after the party. It’s more than just revenge though, he’s after something the party has. 
 
 Possible Plot Hook:
-- You used to work under Hadulus
-- You used to be one of Hadulus’ experiments
-- You used to be one of Zicarae’s soldiers
+- You used to work under [[Hadulus]]
+- You used to be one of [[Hadulus]]’ experiments
+- You used to be one of [[Zicarae, the Torturer|Zicarae]]’s soldiers
 - You’re a historian of sorts, and after investigating the cave after the party cleared it out you uncovered something
 ```
 #### The Dalamar Arc
@@ -59,15 +59,15 @@ Possible Plot Hook:
 
 # Gilford's Dreamscape
 Gilford tells us the following:
-- Person we should most worry about is [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Kuriboh]]
-* Person who is beneficial for us to know is [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Kyrara]]
-* A person to be aware of is [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Transient Entities/Factions/Blue Crusade/Sapphire Skies/Members/Pierre|Pierre]]
+- Person we should most worry about is [[Kuriboh]]
+* Person who is beneficial for us to know is [[Kyrara]]
+* A person to be aware of is [[Transient Entities/Factions/Blue Crusade/Sapphire Skies/Members/Pierre|Pierre]]
 * He is intimate with all the gods
-* We obviously didn't ask for your help beforehand, but is there anything Gilford learned during this battle? Notes can be found [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Hadulus|here]]
+* We obviously didn't ask for your help beforehand, but is there anything Gilford learned during this battle? Notes can be found [[Hadulus|here]]
 * Are there any thoughts / concerns on how we as a team can do better? Our greatest weakness & strength is our individuality
-* Why did Hadulus want to talk instead of fight? Can we exploit his desire to converse? Answer can be found [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Hadulus|here]]
+* Why did Hadulus want to talk instead of fight? Can we exploit his desire to converse? Answer can be found [[Hadulus|here]]
 * The last Gilford heard, the rest of Ulneth's Hammer was with the dwarves as an heirloom of the king
-* Gilford offers [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Seraphina, the Balanced#Artifact|Ataraxia, the Dragonlance]] to the party and Solumn accepts it
+* Gilford offers [[Behind the Divide/Characters/Seraphina, the Balanced#Artifact|Ataraxia, the Dragonlance]] to the party and Solumn accepts it
 
 # Waking up
 We wake up from Gilford's Dreamscape to the sound of 2 men laughing. 
@@ -86,7 +86,7 @@ Clay & I lead the party towards the 2 Elves (Uriel & Mariah) who stand to attent
 - Lava and Draharek are reinforcing cities
 - Zicara may be defeated by next year
 Their commanding officer is Illyrden
-- Illyrden knows [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/The Party/Lykin]] from Lykin's military days. 
+- Illyrden knows [[Lykin]] from Lykin's military days. 
 
 As we leave the cave, we see the 5 man band (Ylorb + Crew) fighting the elves that are stationed here. 
 
@@ -96,7 +96,7 @@ collapse: closed
 We last faught them in Silathgroth and Lava had to save our asses
 ```
 
-## Fight with [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Ylorb]]
+## Fight with [[Ylorb]]
 
 ```ad-note
 title: Quick Combat Data
@@ -107,13 +107,13 @@ I commited 5 charges, but only used 3
 - Lay on Hands - 8 charges
 ```
 
-# Meeting [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/The Party/Niko]]
-As combat is wrapping up, a giant firey bird comes flying towards us. (Wynfrid sees evocation magic surrounding it). As it crashes into our area, [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/The Party/Niko]] appears in the aftermath of the crash. She says she was sent by [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Cinder]] (her friend). 
+# Meeting [[Niko]]
+As combat is wrapping up, a giant firey bird comes flying towards us. (Wynfrid sees evocation magic surrounding it). As it crashes into our area, [[Niko]] appears in the aftermath of the crash. She says she was sent by [[Cinder]] (her friend). 
 
-She mentions going to see Cinder. To help transport the prisoners from [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Session Notes/Pre-Great_Organization_Notes/_The Story#Fight with Ylorb|the previous fight]], Niko mentions storing them in her basement. 
+She mentions going to see Cinder. To help transport the prisoners from [[_The Story#Fight with Ylorb|the previous fight]], Niko mentions storing them in her basement. 
 
 While introducing ourselves, she summons a giant bull, Derek. 
-![[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Attachments/Derek, Niko's Bull.png]]
+![[Attachments/Derek, Niko's Bull.png]]
 
 We elect to scrap our plans of grabbing more artifacts for now, and go see Cinder. 
 
@@ -126,32 +126,32 @@ Niko pulls out a key, touches it to a key, and creates a portal to her house (in
 
 While at Niko's house, we get food. After some time, one of the prisoners (the bandaged man) begins to awaken. 
 
-![[Dungeons_and_Dragons/Player/Kargaroth_Azrael/The Party/Clay#Conversations in Niko's Hut]]
+![[Clay#Conversations in Niko's Hut]]
 
-Valdorn mentions that [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Ylorb]] is [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Cijun, the Defiler|Cijun]]'s failed vessal. He mentions that most (if not all) of the gods are trying to break through the veil. 
+Valdorn mentions that [[Ylorb]] is [[Behind the Divide/Characters/Cijun, the Defiler|Cijun]]'s failed vessal. He mentions that most (if not all) of the gods are trying to break through the veil. 
 
-Valdorn says that Ylorb was not attempted to be made into a [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Miscellaneous_Notes/Gods' Vessels|vessel]] in the same way that Zicara is trying to make her vessal. 
+Valdorn says that Ylorb was not attempted to be made into a [[Miscellaneous_Notes/Gods' Vessels|vessel]] in the same way that Zicara is trying to make her vessal. 
 
-Valdorn says that Ylorb is looking for [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Cijun, the Defiler#Artifact - Atherius|Atherius]] so that he can have more room for the divinity. Holding [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Cijun, the Defiler#Artifact - Atherius|Atherius]] may have helped him hold [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Cijun, the Defiler|Cijun]]'s power and power up [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Cijun, the Defiler#Artifact - Atherius|Atherius]]. 
+Valdorn says that Ylorb is looking for [[Behind the Divide/Characters/Cijun, the Defiler#Artifact - Atherius|Atherius]] so that he can have more room for the divinity. Holding [[Behind the Divide/Characters/Cijun, the Defiler#Artifact - Atherius|Atherius]] may have helped him hold [[Behind the Divide/Characters/Cijun, the Defiler|Cijun]]'s power and power up [[Behind the Divide/Characters/Cijun, the Defiler#Artifact - Atherius|Atherius]]. 
 
-A god with their armament may be unstoppable. Valdorn says a mage of some sort told him this, but he says he doesn't recognize the name [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Dalamar]].  The mage spoke with an ancient human accent that he didn't recognize. Lykin mentions that this could've been someone from before the [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Session Notes/Pre-Great_Organization_Notes/Great God War]]. 
+A god with their armament may be unstoppable. Valdorn says a mage of some sort told him this, but he says he doesn't recognize the name [[Dalamar]].  The mage spoke with an ancient human accent that he didn't recognize. Lykin mentions that this could've been someone from before the [[Great God War]]. 
 
-Clay tells Valdorn that we will keep him in Niko's House for a bit longer, but Valdorn states that he is bound to (since he's a revenant) try to leave and take [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Cijun, the Defiler#Artifact - Atherius|Atherius]]. 
+Clay tells Valdorn that we will keep him in Niko's House for a bit longer, but Valdorn states that he is bound to (since he's a revenant) try to leave and take [[Behind the Divide/Characters/Cijun, the Defiler#Artifact - Atherius|Atherius]]. 
 
 # Deals, Info and Beginnings
-The mage ([[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Aurora]]) of the opposing party starts to stir awake, and asks, "Where are we?" and [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/The Party/Azrael]] welcomes her to Hell. 
+The mage ([[Aurora]]) of the opposing party starts to stir awake, and asks, "Where are we?" and [[Azrael]] welcomes her to Hell. 
 
-Of all of the members of the opposing party, the only one that is threatening to us is [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Ylorb]]. I place my Dimensional Shackles on him. 
+Of all of the members of the opposing party, the only one that is threatening to us is [[Ylorb]]. I place my Dimensional Shackles on him. 
 
-We decide to store the prisoners in [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/The Party/Niko]]'s basement. 
+We decide to store the prisoners in [[Niko]]'s basement. 
 
 We decide to leave Niko's house and return to the spider dungeon near the elves that fought with Ylorb's gang and where we entered Niko's house. 
 
-[[Dungeons_and_Dragons/Player/Kargaroth_Azrael/The Party/Lykin]] teleports us to [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Silothgroth/Characters/Lava]]'s shop, _Lava's Magical Emporium_. We enter the shop after [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/The Party/Clay]] and [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Silothgroth/Characters/Sarada]] exchange greetings. Sarada glances at [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/The Party/Niko]] and says, "That's a lot of magic". 
+[[Lykin]] teleports us to [[Lava]]'s shop, _Lava's Magical Emporium_. We enter the shop after [[Clay]] and [[Sarada]] exchange greetings. Sarada glances at [[Niko]] and says, "That's a lot of magic". 
 
-Lava comes from the back and greets us. We talk with her and she mentions our increase in power.  Lykin recounts our adventure's in [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Session Notes/Pre-Great_Organization_Notes/_The Story#Gilford's Dreamscape|Gilford's Dreamscape]] at a high level. 
+Lava comes from the back and greets us. We talk with her and she mentions our increase in power.  Lykin recounts our adventure's in [[_The Story#Gilford's Dreamscape|Gilford's Dreamscape]] at a high level. 
 
-Clay signs us up to kill [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Cijun, the Defiler|Cijun]]. Lava tells us that in order to kill a god, we must replace them, but she doesn't know what would happen if we elected to not replace the god. (Wynfrid is interested in this prospect). Wynfrid brings up replacing the gods with the party. 
+Clay signs us up to kill [[Behind the Divide/Characters/Cijun, the Defiler|Cijun]]. Lava tells us that in order to kill a god, we must replace them, but she doesn't know what would happen if we elected to not replace the god. (Wynfrid is interested in this prospect). Wynfrid brings up replacing the gods with the party. 
 
 Lava mentions that many gods seem to be emboldened by the creation of failed vessels to create their own vessels. 
 
@@ -173,13 +173,13 @@ collapse: closed
 
 Wynfrid tells Niko that the Blue Crusade kidnapped her father to create Zicarae's vessel and her families vault is under the _supervision_ of a man named [[Drar'Gith]]. Niko mentions that she knows Drar (calls him "very handsome"). 
 
-Niko offers a favor in exchange for a question to [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Silothgroth/Characters/Sarada]]. The question is, "Do you know where [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Kyrena, the Naturalist|Kyrena]]'s Champion is located". Sarada responds that [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Uriphina]] can be found at the gateway between the feywild and the material plane (top left of the elven territory). 
+Niko offers a favor in exchange for a question to [[Sarada]]. The question is, "Do you know where [[Behind the Divide/Characters/Kyrena, the Naturalist|Kyrena]]'s Champion is located". Sarada responds that [[Uriphina]] can be found at the gateway between the feywild and the material plane (top left of the elven territory). 
 
-Lava tells Lykin that last she heard, the _Tome of Lies_ resides in the Shadowfell. The Vampire King ([[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Shadowfell/Characters/Strahd von Zarovich]]) was the last known person to own it. If we choose to go after this item, bring lots of sunlight. 
+Lava tells Lykin that last she heard, the _Tome of Lies_ resides in the Shadowfell. The Vampire King ([[Strahd von Zarovich]]) was the last known person to own it. If we choose to go after this item, bring lots of sunlight. 
 
 Lava knows the following about Beginning:
 - No one wields it as far as she knows
-- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Aterna, the Wonderstruck|Aterna]] has been quiet (potentially no Champion or Voice)
+- [[Behind the Divide/Characters/Aterna, the Wonderstruck|Aterna]] has been quiet (potentially no Champion or Voice)
 - Do not forget about "our End" (potential Butt joke). 
 
 ```ad-note
@@ -202,7 +202,7 @@ We teleport back to Silathgroth with no problems.
 ---
 # Quest Log
 ## Together (Completed)
-- [x] Go to Silathgroth and talk with [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Silothgroth/Characters/Lava]]
+- [x] Go to Silathgroth and talk with [[Lava]]
 - [x] Split Up for Next Step
 
 ## Group A (Completed)
@@ -217,8 +217,8 @@ Members: Wynfrid, Set, Niko
 ## After Regrouping
 - [ ] Talk with Cinder (May not occur)
 - [x] Talk with Lava and get information pertaining to the _Tome of Lies_
-	- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/The Party/Solumn]] wants to know more about [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Seraphina, the Balanced#Artifact - Ataraxia, the Dragonlance|Ataraxia]]
-	- May know where [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Teralis]] is - near Y'llthnyr on an errand for Lava. 
+	- [[Solumn]] wants to know more about [[Behind the Divide/Characters/Seraphina, the Balanced#Artifact - Ataraxia, the Dragonlance|Ataraxia]]
+	- May know where [[Teralis]] is - near Y'llthnyr on an errand for Lava. 
 - [x] Surveil Y'llthnyr
 - [x] Descend to Hell for Wolke's Vault
 - [ ] Go to Chelicerata and fight Zicara
@@ -226,10 +226,10 @@ Members: Wynfrid, Set, Niko
 	- We believe Wynfrid and Lykin's fathers are there
 
 ## Other Plans
-- [ ] Kill [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Cijun, the Defiler|Cijun]]
-	- [ ] Find a way to get [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Aurora]] out of her contract
-	- [ ] Find a way to get [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Valdorn]] out of his contract
+- [ ] Kill [[Behind the Divide/Characters/Cijun, the Defiler|Cijun]]
+	- [ ] Find a way to get [[Aurora]] out of her contract
+	- [ ] Find a way to get [[Valdorn]] out of his contract
 - [ ] Forge Aterna's Greatsword
 	- [ ] Complete 3rd Quest (Currently Unknown)
 	- [ ] Go to [[The_World_Forge]] as or with a competent blacksmith
-		- [ ] [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Burflun]] is the Champion of [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Onryx, the World Forger|Onryx]] and may be able to assist. 
+		- [ ] [[Burflun]] is the Champion of [[Behind the Divide/Characters/Onryx, the World Forger|Onryx]] and may be able to assist. 

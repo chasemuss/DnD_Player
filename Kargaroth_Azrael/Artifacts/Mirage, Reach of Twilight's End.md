@@ -4,7 +4,7 @@ tags:
 ---
 
 # Notes
-Currently owned by [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/The Party/Solumn]].
+Currently owned by [[The Party/Solumn]].
 	- Its a giant shuriken with teleportation properties
 	- Abilities
 		- Weapon Bond: While this weapon is attuned to you are bonded to it. Once you have bonded a weapon to yourself, you can't be disarmed of that weapon unless you are incapacitated. If It is on the same plane of existence, you can summon that weapon as a bonus action on your turn, causing it to teleport instantly to your hand. 

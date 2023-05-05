@@ -24,5 +24,5 @@ alias:
 - [Note]
 
 # Notable People
-- [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Silothgroth/Characters/Lava|Lava]]
+- [[Silothgroth/Characters/Lava|Lava]]
 - [[Lisandra]]

@@ -33,10 +33,10 @@ alias:
 # Notes
 - Relationships: 
 	- Family
-		- Sister - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Solari, the White Moon|Solari]]
-		- Sister - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Fanera, the Book|Fanera]]
-		- Sister - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Kehdea, the Red Moon|Kehdea]]
-		- Mother - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Seraphina, the Balanced|Seraphina]]
+		- Sister - [[Behind the Divide/Characters/Solari, the White Moon|Solari]]
+		- Sister - [[Behind the Divide/Characters/Fanera, the Book|Fanera]]
+		- Sister - [[Behind the Divide/Characters/Kehdea, the Red Moon|Kehdea]]
+		- Mother - [[Behind the Divide/Characters/Seraphina, the Balanced|Seraphina]]
 	- Voice: 
 	- Champion: 
 - Motivations: 

@@ -25,8 +25,8 @@ Hadulus has an interesting relationship with the Gods. He holds them responsible
 # Notes
 - Relationships: 
 	- Family
-	- Patron - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Zicarae, the Torturer|Zicarae]] (Making her vessel)
-	- Former Patron - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Cijun, the Defiler|Cijun]]
+	- Patron - [[Behind the Divide/Characters/Zicarae, the Torturer|Zicarae]] (Making her vessel)
+	- Former Patron - [[Behind the Divide/Characters/Cijun, the Defiler|Cijun]]
 - Motivations: 
 - Secrets: 
 - Quirks: 

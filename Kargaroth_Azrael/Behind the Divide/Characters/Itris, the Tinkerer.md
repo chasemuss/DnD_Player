@@ -1,7 +1,7 @@
 ---
 tags:
 - Location/Behind_the_Divide
-- God/Itris/Artifact/Unknown
+- God/Itris
 alias:
 - Itris
 ---

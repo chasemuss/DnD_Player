@@ -1,7 +1,7 @@
 ---
 tags:
 - Location/Behind_the_Divide
-- God/Zicarae/Artifact/Unknown
+- God/Zicarae
 alias:
 - Zicarae
 ---
@@ -32,7 +32,7 @@ Despite being a 3rd tier god her ambitions and goals far surpass that of her fel
 # Notes
 - Relationships: 
 	- Family
-	- Voice: [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Lolth]]
+	- Voice: [[Lolth]]
 	- Champion: 
 - Motivations: 
 - Secrets: 

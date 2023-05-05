@@ -4,5 +4,5 @@ tags:
 ---
 
 # Notes
-- Currently possessed by [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Vera]]
+- Currently possessed by [[Vera]]
 - Can compel a dragon to allow you to ride it and improve abilities between rider & dragon

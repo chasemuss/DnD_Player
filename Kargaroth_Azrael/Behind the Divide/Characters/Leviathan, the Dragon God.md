@@ -1,7 +1,7 @@
 ---
 tags:
 - Location/Behind_the_Divide
-- God/Leviathan/Artifact/Unknown
+- God/Leviathan
 alias:
 - Leviathan
 ---

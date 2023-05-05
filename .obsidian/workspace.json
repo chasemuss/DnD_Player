@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "93652f26e33fe43b",
+            "id": "bc1a0db3f60d0945",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Levasa_Ashe/Gods/Asmodeus.md",
+                "file": "Kargaroth_Azrael/Quest Log.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,21 +48,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#God",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "975ab6c12fb9a011",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
             }
           },
           {
@@ -88,12 +80,23 @@
         "type": "tabs",
         "children": [
           {
+            "id": "f193a8d53bc56fd4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
             "id": "e2ac07031f24f54e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Levasa_Ashe/Gods/Asmodeus.md",
+                "file": "Kargaroth_Azrael/Quest Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,20 +113,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Levasa_Ashe/Gods/Asmodeus.md",
+                "file": "Kargaroth_Azrael/Quest Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "f193a8d53bc56fd4",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "alphabetical",
-                "useHierarchy": true
               }
             }
           },
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Levasa_Ashe/Gods/Asmodeus.md"
+                "file": "Kargaroth_Azrael/Quest Log.md"
               }
             }
           },
@@ -161,8 +153,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,47 +173,48 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "93652f26e33fe43b",
+  "active": "bc1a0db3f60d0945",
   "lastOpenFiles": [
-    "Test.md",
-    "Dungeons_and_Dragons/Player/Levasa_Razul/The Mew.md",
-    "Dungeons_and_Dragons/Player/Levasa_Razul/Tanoq.md",
-    "Dungeons_and_Dragons/Player/Levasa_Razul/Sporos.md",
-    "Dungeons_and_Dragons/Player/Levasa_Razul/Levasa World Information.pdf",
-    "Unsorted/D&D_Levasa/_Levasa.md",
-    "Unsorted/D&D_Levasa/Windsend.md",
-    "Unsorted/D&D_Levasa/Crumb.md",
-    "Unsorted/D&D_Atnol/Atnol_Discord/lore-and-notes.md",
-    "Dungeons_and_Dragons/Dreadmoor/Cosmology/The Gods.md",
-    "Dungeons_and_Dragons/Player/_Templates/Session Notes.md",
-    "Dungeons_and_Dragons/Player/Levasa_Ashe/z_Templates/Session_Notes.md",
-    "Dungeons_and_Dragons/Player/_Templates/Quest Template.md",
-    "Dungeons_and_Dragons/Player/Levasa_Ashe/z_Templates/Quest_Template.md",
-    "Dungeons_and_Dragons/Player/_Templates/Location Template.md",
-    "Dungeons_and_Dragons/Player/Levasa_Ashe/z_Templates/Location_Template.md",
-    "Dungeons_and_Dragons/Player/Levasa_Ashe/z_Templates/Homebrew_Template.md",
-    "Dungeons_and_Dragons/Player/_Templates/Homebrew Template.md",
-    "Dungeons_and_Dragons/Player/_Templates/Character Template.md",
-    "Dungeons_and_Dragons/Player/_Templates/Faction Template.md",
-    "Dungeons_and_Dragons/Player/Levasa_Ashe/z_Templates/Faction_Template.md",
-    "Dungeons_and_Dragons/Player/Levasa_Ashe/z_Templates/Character_Template.md",
-    "Dungeons_and_Dragons/Player/Levasa_Ashe/z_Templates/Campaign_Template.md",
-    "Dungeons_and_Dragons/Player/_Templates",
-    "Dungeons_and_Dragons/Player/Levasa_Razul/Character_Ideas/Razul_Level_20.pdf",
-    "Dungeons_and_Dragons/Untitled",
+    "Kargaroth_Azrael/Kargaroth Quest Log.md",
+    "Kargaroth_Azrael/The Party/Azrael.md",
+    "Kargaroth_Azrael/The Party/Lykin.md",
+    "Kargaroth_Azrael/Unknown_Location/Characters/Dalamar.md",
+    "Kargaroth_Azrael/Silothgroth/Characters/Sarada.md",
+    "Kargaroth_Azrael/Hell/Characters/Tragoedia, King of Fiends.md",
+    "Kargaroth_Azrael/Unknown_Location/Characters/Valdorn.md",
+    "Kargaroth_Azrael/Unknown_Location/Characters/Valian.md",
+    "Kargaroth_Azrael/Behind the Divide/Characters/Zicarae, the Torturer.md",
+    "Kargaroth_Azrael/Miscellaneous_Notes/Gods' Vessels.md",
+    "Kargaroth_Azrael/The Party/Lily of the Field.md",
+    "Kargaroth_Azrael/Ishmanor/Characters/Lily.md",
+    "Kargaroth_Azrael/Behind the Divide/Characters/Cijun, the Defiler.md",
+    "Kargaroth_Azrael/Unknown_Location/Characters/Ziclana.md",
+    "Kargaroth_Azrael/Unknown_Location/Characters/Valkyria.md",
+    "Kargaroth_Azrael/The Party/Wynfrid Wolke.md",
+    "Kargaroth_Azrael/Unknown_Location/Characters/Uriphina.md",
+    "Kargaroth_Azrael/Artifacts/The_Atlas_of_Creation.md",
+    "Kargaroth_Azrael/Silothgroth/Silothgroth.md",
+    "Kargaroth_Azrael/Artifacts/Mirage, Reach of Twilight's End.md",
+    "Kargaroth_Azrael/Behind the Divide/Characters/Solari, the White Moon.md",
+    "Kargaroth_Azrael/Transient Entities/Factions/Blue Crusade/Sapphire Skies/Sapphire Skies.md",
+    "Kargaroth_Azrael/Transient Entities/Factions/Blue Crusade/Cobalt Cascade/Members/Rimadalf.md",
+    "Kargaroth_Azrael/The Party/Niko.md",
+    "Kargaroth_Azrael/Behind the Divide/Characters/Nutari, the Hidden Moon.md",
+    "Kargaroth_Azrael/Transient Entities/Factions/Blue Crusade/Lapis Legion/Lapis Legion.md",
+    "Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters",
+    "Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide",
+    "Dungeons_and_Dragons/Player/Kargaroth_Azrael",
     "Dungeons_and_Dragons/Player",
     "Dungeons_and_Dragons",
+    "Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters",
+    "Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location",
+    "Levasa_Ashe/Player_Characters/Ashe_Portrait.png",
+    "Dungeons_and_Dragons/Player/Levasa_Razul/Levasa World Information.pdf",
+    "Dungeons_and_Dragons/Player/_Templates",
+    "Dungeons_and_Dragons/Player/Levasa_Razul/Character_Ideas/Razul_Level_20.pdf",
     "Dungeons_and_Dragons/Player/Levasa_Razul/Character_Ideas/Ashe_2.png",
     "Dungeons_and_Dragons/Player/Levasa_Razul/Character_Ideas/Ashe.png",
-    "Gods_Mouth/Characters/Ulneth.md",
-    "Transient Entities/Gods/Boaos, the Unknown Reaper.md",
-    "Session Notes/Pre-Great_Organization_Notes/_The Story.md",
-    "Behind the Divide/Behind the Divide.md",
     "The Party/Azrael_Monster_Stat_Block.png",
-    "Session Notes/Pre-Great_Organization_Notes/Kargaroth World Information.pdf",
-    "Shadowfell/Characters",
-    "Shadowfell",
-    "Gods_Mouth/Characters",
     "Connections.canvas",
     "Attachments/The Black Sun.jpg",
     "Attachments/Derek, Niko's Bull.png",
@@ -230,7 +222,6 @@
     "_Depricate_Characters/Gods/End.png",
     "Ishmanor/Points of Interest/Temple of Ochena 1st floor.png",
     "Ishmanor/Points of Interest/Temple of Ochena 2.png",
-    "Ishmanor/Points of Interest/Temple of Ochena 4.png",
     "Untitled.canvas"
   ]
 }

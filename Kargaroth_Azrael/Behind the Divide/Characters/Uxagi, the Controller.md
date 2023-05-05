@@ -1,7 +1,7 @@
 ---
 tags:
 - Location/Behind_the_Divide
-- God/Uxagi/Artifact/Unknown
+- God/Uxagi
 alias:
 - Uxagi
 ---

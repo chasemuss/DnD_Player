@@ -31,7 +31,7 @@ alias:
 - Relationships: 
 	- Family
 	- Voice: 
-	- Champion: [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Ylorb]]
+	- Champion: [[Ylorb]]
 - Motivations: 
 - Secrets: 
 - Quirks: 

@@ -12,9 +12,9 @@ alias:
 # Basic Info
 - Alignment: 
 
-The voice & champion of [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Byvitar, the Trickster]]
+The voice & champion of [[Byvitar, the Trickster]]
 
-[[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Teralis]] claims
+[[Teralis]] claims
 - Solumn is the vessel of Byvitar because he is both the Voice & Champion. 
 - Solumn is "fate"
 

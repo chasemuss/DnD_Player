@@ -7,7 +7,7 @@ home_base:
 - 
 ---
 # Description
-This cult follows [[Dungeons_and_Dragons/Player/Levasa_Razul/Bane]]. They were the ones to destroy Lazuli and kill [[Ashe Veilshifter|Ashe]]'s family.
+This cult follows [[Levasa_Ashe/Gods/Bane|Bane]]. They were the ones to destroy Lazuli and kill [[Ashe_Veilshifter|Ashe]]'s family.
 
 # Members
 

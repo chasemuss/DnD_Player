@@ -20,7 +20,7 @@ alias:
 # Notes
 - Relationships: 
 	- Family
-		- Sibling - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/The Party/Solumn]]
+		- Sibling - [[The Party/Solumn]]
 - Motivations: 
 - Secrets: 
 - Quirks: 

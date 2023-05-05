@@ -22,7 +22,7 @@ alias:
 # Notes
 - Relationships: 
 	- Family
-		- [[Dungeons_and_Dragons/Player/Levasa_Ashe/Gods/Asmodeus]] - Father
+		- [[Levasa_Ashe/Gods/Asmodeus|Asmodeus]] - Father
 - Motivations: 
 - Secrets: 
 - Quirks: 

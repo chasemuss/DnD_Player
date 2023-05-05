@@ -20,8 +20,8 @@ alias:
 # Notes
 - Relationships: 
 	- Family
-		- Husband - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters/Valdorn]]
-		- Child - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/The Party/Clay]]
+		- Husband - [[Valdorn]]
+		- Child - [[The Party/Clay]]
 - Motivations: 
 - Secrets: 
 - Quirks: 

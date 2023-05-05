@@ -1,7 +1,7 @@
 ---
 tags:
 - Location/Behind_the_Divide
-- God/Acaria/Artifact/Unknown
+- God/Acaria
 alias:
 - Acaria
 ---

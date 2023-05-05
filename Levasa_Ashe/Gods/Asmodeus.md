@@ -21,7 +21,7 @@ locations:
 # Notes
 - Relationships: 
 	- Family
-		- [[Aza]] - Son
+		- [[Levasa_Ashe/Player_Characters/Azazel|Azazel]] - Son
 - Motivations: 
 - Secrets: 
 - Quirks: 

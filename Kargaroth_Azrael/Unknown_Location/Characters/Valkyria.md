@@ -22,7 +22,7 @@ The first angel made by Phorsphoran
 # Notes
 - Relationships: 
 	- Family
-		- Father - [[Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters/Phorsphoran, the Just|Phorsphoran]]
+		- Father - [[Behind the Divide/Characters/Phorsphoran, the Just|Phorsphoran]]
 - Motivations: 
 - Secrets: 
 - Quirks: 
