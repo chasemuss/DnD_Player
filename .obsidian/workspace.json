@@ -39,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Kargaroth_Azrael/Session Notes/2023-05-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Kargaroth_Azrael/Session Notes/2023-05-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Kargaroth_Azrael/Session Notes/2023-05-05.md"
               }
             }
           },
@@ -195,10 +194,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "de3b03d9465870d8",
+  "active": "f193a8d53bc56fd4",
   "lastOpenFiles": [
-    "Pasted image 20230506013350.png",
     "Untitled.md",
+    "Pasted image 20230506013350.png",
     "Kargaroth_Azrael/Session Notes/2023-05-05.md",
     "_Templates/Session Notes.md",
     "Kargaroth_Azrael/Ishmanor/Characters/Lily.md",
@@ -243,7 +242,6 @@
     "Attachments/The Black Sun.jpg",
     "Attachments/Derek, Niko's Bull.png",
     "Attachments/Azrael.jpg",
-    "_Depricate_Characters/Gods/End.png",
     "Untitled.canvas"
   ]
 }
