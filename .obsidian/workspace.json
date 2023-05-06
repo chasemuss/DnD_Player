@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dc349e949538b136",
+        "id": "a93ff14249b08221",
         "type": "tabs",
         "children": [
           {
-            "id": "bc1a0db3f60d0945",
+            "id": "017a27cd0aa394ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,8 +173,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bc1a0db3f60d0945",
+  "active": "017a27cd0aa394ab",
   "lastOpenFiles": [
+    "Kargaroth_Azrael/Ishmanor/Characters/Lily.md",
+    "Kargaroth_Azrael/The Party/Lily of the Field.md",
     "Kargaroth_Azrael/Session Notes/2023-05-05.md",
     "Wynfrid.md",
     "Kargaroth_Azrael/The Party/Set.md",
@@ -197,8 +199,6 @@
     "Kargaroth_Azrael/Unknown_Location/Characters/Valian.md",
     "Kargaroth_Azrael/Behind the Divide/Characters/Zicarae, the Torturer.md",
     "Kargaroth_Azrael/Miscellaneous_Notes/Gods' Vessels.md",
-    "Kargaroth_Azrael/The Party/Lily of the Field.md",
-    "Kargaroth_Azrael/Ishmanor/Characters/Lily.md",
     "Kargaroth_Azrael/Behind the Divide/Characters/Cijun, the Defiler.md",
     "Kargaroth_Azrael/Unknown_Location/Characters/Ziclana.md",
     "Kargaroth_Azrael/Unknown_Location/Characters/Valkyria.md",
