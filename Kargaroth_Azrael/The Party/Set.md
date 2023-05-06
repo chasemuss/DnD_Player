@@ -13,6 +13,7 @@ alias:
 
 Shield Guardian's name is S.C.A.L.E.
 
+
 ## Notable Equipment
 - [Equipment Name]
 - [Equipment Name]
