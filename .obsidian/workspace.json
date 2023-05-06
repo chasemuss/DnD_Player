@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "209966a51fb411fd",
@@ -175,16 +176,16 @@
   },
   "active": "017a27cd0aa394ab",
   "lastOpenFiles": [
+    "_Templates/Session Notes.md",
+    "Kargaroth_Azrael/Session Notes/2023-05-05.md",
     "Kargaroth_Azrael/Ishmanor/Characters/Lily.md",
     "Kargaroth_Azrael/The Party/Lily of the Field.md",
-    "Kargaroth_Azrael/Session Notes/2023-05-05.md",
     "Wynfrid.md",
     "Kargaroth_Azrael/The Party/Set.md",
     "Pasted image 20230505213207.jpg",
     "Kargaroth_Azrael/Attachments/Azraels_Deathscape.jpg",
     "Kargaroth_Azrael/Transient Entities/Gods/Boaos, the Unknown Reaper.md",
     "Kargaroth_Azrael/Behind the Divide/Behind the Divide.md",
-    "_Templates/Session Notes.md",
     "Kargaroth_Azrael/Unknown_Location/Characters/Dalamar.md",
     "Kargaroth_Azrael/Session Notes/2023-04-28.md",
     "Kargaroth_Azrael/Session Notes/2023-04-21.md",
