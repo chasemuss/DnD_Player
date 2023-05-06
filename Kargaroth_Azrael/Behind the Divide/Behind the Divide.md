@@ -7,6 +7,7 @@ alias:
 
 # Description
 - This is where the gods were locked up. The only known god to escape is Boaos.
+- The Divide was built by Seraphina
 
 # Key Locations
 - [Location 1]: [Description/Notes]

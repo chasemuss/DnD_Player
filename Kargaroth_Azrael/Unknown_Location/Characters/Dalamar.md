@@ -16,6 +16,8 @@ Dalamar works of various experiments and undead conjuration, he is believed to b
 
 Dalamar has had contact and dealings with [[Hadulus]] and Lilith as well as the leader of the [[Cobalt Cascade]].
 
+
+
 ## Notable Equipment
 - [[Necronomicon]]
 - [Equipment Name]

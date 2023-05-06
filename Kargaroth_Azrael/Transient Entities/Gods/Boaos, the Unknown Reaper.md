@@ -17,6 +17,8 @@ Boaos was one of [[Xinzounux]]'s students and from [[Starmouth|Starmouth]].
 He was the first lich and taught [[Xinzounux]] how to be a lich
 - Involved sacrificing his eyes(?)
 
+Not behind the Divine Divide and the reasons how are unknown. 
+
 ## Domains
 - Death
 - Destiny

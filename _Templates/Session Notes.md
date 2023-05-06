@@ -1,5 +1,5 @@
 <% "---" %>
-title: Session [Session Number] - <% tp.date.now() %>
+title: <% tp.date.now() %>
 tags:
 - The_Story
 <% "---" %>
