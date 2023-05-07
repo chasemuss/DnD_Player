@@ -11,31 +11,9 @@
             "id": "017a27cd0aa394ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Kargaroth_Azrael/Session Notes/2023-05-05.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1cca2080e35a7fe1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "de3b03d9465870d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Kargaroth_Azrael/Attachments/Azrael's Deathscape.jpg"
               }
             }
           }
@@ -89,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "209966a51fb411fd",
@@ -117,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kargaroth_Azrael/Session Notes/2023-05-05.md",
+                "file": "Kargaroth_Azrael/Attachments/Azrael's Deathscape.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kargaroth_Azrael/Session Notes/2023-05-05.md",
+                "file": "Kargaroth_Azrael/Attachments/Azrael's Deathscape.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kargaroth_Azrael/Session Notes/2023-05-05.md"
+                "file": "Kargaroth_Azrael/Attachments/Azrael's Deathscape.jpg"
               }
             }
           },
@@ -194,18 +171,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f193a8d53bc56fd4",
+  "active": "017a27cd0aa394ab",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Kargaroth_Azrael/Attachments/Azraels_Deathscape.jpg",
+    "Kargaroth_Azrael/Attachments/Azrael's Deathscape.jpg",
     "Pasted image 20230506013350.png",
+    "Untitled.md",
     "Kargaroth_Azrael/Session Notes/2023-05-05.md",
     "_Templates/Session Notes.md",
     "Kargaroth_Azrael/Ishmanor/Characters/Lily.md",
     "Kargaroth_Azrael/The Party/Lily of the Field.md",
     "Wynfrid.md",
     "Kargaroth_Azrael/The Party/Set.md",
-    "Pasted image 20230505213207.jpg",
-    "Kargaroth_Azrael/Attachments/Azraels_Deathscape.jpg",
     "Kargaroth_Azrael/Transient Entities/Gods/Boaos, the Unknown Reaper.md",
     "Kargaroth_Azrael/Behind the Divide/Behind the Divide.md",
     "Kargaroth_Azrael/Unknown_Location/Characters/Dalamar.md",
