@@ -1,8 +1,7 @@
 {
   "alwaysUpdateLinks": true,
   "userIgnoreFilters": [
-    "_Templates/",
-    "Levasa_Razul/"
+    "_Templates/"
   ],
   "newFileLocation": "root",
   "showLineNumber": false,

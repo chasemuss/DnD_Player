@@ -2,7 +2,6 @@
 tags:
 - Race/Changling
 - Profession/Thief
-- Profession/Adventurer
 - Faction/Party
 - Location/Party
 alias:

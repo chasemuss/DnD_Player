@@ -11,9 +11,11 @@
             "id": "017a27cd0aa394ab",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Kargaroth_Azrael/Attachments/Azrael's Deathscape.jpg"
+                "file": "Levasa_Razul/2021_11_19 Fighting in the Mines.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -46,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#The_Story/Dalamar_Fight",
+                "query": "dungeons_and_dragon/player/",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -63,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kargaroth_Azrael/Attachments/Azrael's Deathscape.jpg",
+                "file": "Levasa_Razul/2021_11_19 Fighting in the Mines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kargaroth_Azrael/Attachments/Azrael's Deathscape.jpg",
+                "file": "Levasa_Razul/2021_11_19 Fighting in the Mines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kargaroth_Azrael/Attachments/Azrael's Deathscape.jpg"
+                "file": "Levasa_Razul/2021_11_19 Fighting in the Mines.md"
               }
             }
           },
@@ -171,13 +174,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "017a27cd0aa394ab",
+  "active": "01def76d94326950",
   "lastOpenFiles": [
-    "Kargaroth_Azrael/Attachments/Azraels_Deathscape.jpg",
+    "Levasa_Razul/Character_Ideas/Ashe_2.png",
+    "Levasa_Razul/Character_Ideas/Ashe.png",
+    "Levasa_Razul/Character_Ideas/Razul_Level_20.pdf",
+    "Levasa_Ashe/Player_Characters/Ashe_Veilshifter.md",
+    "Kargaroth_Azrael/The Party/Azrael.md",
+    "Kargaroth_Azrael/Session Notes/2023-05-05.md",
+    "Kargaroth_Azrael/The Party/Azrael_Monster_Stat_Block.png",
     "Kargaroth_Azrael/Attachments/Azrael's Deathscape.jpg",
+    "Kargaroth_Azrael/Attachments/Azraels_Deathscape.jpg",
     "Pasted image 20230506013350.png",
     "Untitled.md",
-    "Kargaroth_Azrael/Session Notes/2023-05-05.md",
     "_Templates/Session Notes.md",
     "Kargaroth_Azrael/Ishmanor/Characters/Lily.md",
     "Kargaroth_Azrael/The Party/Lily of the Field.md",
@@ -191,7 +200,6 @@
     "Kargaroth_Azrael/Session Notes/2023-04-14.md",
     "Kargaroth_Azrael/Quest Log.md",
     "Kargaroth_Azrael/Kargaroth Quest Log.md",
-    "Kargaroth_Azrael/The Party/Azrael.md",
     "Kargaroth_Azrael/The Party/Lykin.md",
     "Kargaroth_Azrael/Silothgroth/Characters/Sarada.md",
     "Kargaroth_Azrael/Hell/Characters/Tragoedia, King of Fiends.md",
@@ -200,7 +208,6 @@
     "Kargaroth_Azrael/Behind the Divide/Characters/Zicarae, the Torturer.md",
     "Kargaroth_Azrael/Miscellaneous_Notes/Gods' Vessels.md",
     "Kargaroth_Azrael/Behind the Divide/Characters/Cijun, the Defiler.md",
-    "Kargaroth_Azrael/Unknown_Location/Characters/Ziclana.md",
     "Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters",
     "Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide",
     "Dungeons_and_Dragons/Player/Kargaroth_Azrael",
@@ -211,14 +218,11 @@
     "Levasa_Ashe/Player_Characters/Ashe_Portrait.png",
     "Dungeons_and_Dragons/Player/Levasa_Razul/Levasa World Information.pdf",
     "Dungeons_and_Dragons/Player/_Templates",
-    "Dungeons_and_Dragons/Player/Levasa_Razul/Character_Ideas/Razul_Level_20.pdf",
     "Dungeons_and_Dragons/Player/Levasa_Razul/Character_Ideas/Ashe_2.png",
     "Dungeons_and_Dragons/Player/Levasa_Razul/Character_Ideas/Ashe.png",
     "The Party/Azrael_Monster_Stat_Block.png",
     "Connections.canvas",
     "Attachments/The Black Sun.jpg",
-    "Attachments/Derek, Niko's Bull.png",
-    "Attachments/Azrael.jpg",
     "Untitled.canvas"
   ]
 }

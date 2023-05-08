@@ -15,7 +15,7 @@ alias:
 ## Notable Equipment
 - [[End]]
 - [[Beginning]]
-- [Equipment Name]
+- Molten Bronze Skin (Plate)
 - [Equipment Name]
 - [Equipment Name]
 
