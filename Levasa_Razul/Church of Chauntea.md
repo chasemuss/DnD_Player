@@ -1,9 +1,9 @@
 # Church of Chauntea
 ## Known Members
-- [[Dungeons_and_Dragons/Player/Levasa_Razul/Chauntea]]: Patron God
+- [[Chauntea]]: Patron God
 - [[Ruth]]: Leader
-- [[Dungeons_and_Dragons/Player/Levasa_Razul/Ingrid Epensen]] (Magister)
-- [[Dungeons_and_Dragons/Player/Levasa_Razul/Danielle]]: Priestess
+- [[Ingrid Epensen]] (Magister)
+- [[Danielle]]: Priestess
 
 ## Other Connections
 
@@ -12,4 +12,4 @@
 ## Pseudonyms
 
 ## Other Information
-- Headquarters in [[Dungeons_and_Dragons/Player/Levasa_Razul/Windsend]] 
+- Headquarters in [[Windsend]] 

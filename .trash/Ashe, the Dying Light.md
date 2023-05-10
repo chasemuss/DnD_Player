@@ -4,7 +4,7 @@ Current Status: Alive
 ---
 # Notable Locations
 ## Home
-![[Dungeons_and_Dragons/Player/Levasa_Razul/Windsend#The Flurries]]
+![[Windsend#The Flurries]]
 
 ---
 # Biography
@@ -18,12 +18,9 @@ Current Status: Alive
 - #DnD/Language/Elvish 
 - #DnD/Language/Thieves_Cant
 
-## Spells
-- [[Class - Paladin#Oath of Vengeance Spells]]
-
 ---
 # Related Articles
 
 | Article Name | Relationship |
 | ------------ | ------------ |
-| [[Dungeons_and_Dragons/Player/Levasa_Razul/Windsend]] | Hometown     | 
+| [[Windsend]] | Hometown     | 

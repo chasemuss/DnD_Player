@@ -1,6 +1,6 @@
 # Church of Bahamut
 ## Known Members
-- [[Dungeons_and_Dragons/Player/Levasa_Razul/Bahamut]]: Patron God
+- [[Bahamut]]: Patron God
 - [[Morduk]]: Leader
 - [[Edmond]]: Book Keeper
 - [[Arvin]]
@@ -11,4 +11,4 @@
 ## Pseudonyms
 
 ## Other Information
-- Headquarters in [[Dungeons_and_Dragons/Player/Levasa_Razul/Windsend]] 
+- Headquarters in [[Windsend]] 

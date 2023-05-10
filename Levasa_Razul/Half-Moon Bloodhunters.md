@@ -2,7 +2,7 @@
 ## Known Members
 
 ### Former Members
-- [[Dungeons_and_Dragons/Player/Levasa_Razul/Leland Silvi]]
+- [[Leland Silvi]]
 ## Other Connections
 
 ## Goals & Desires

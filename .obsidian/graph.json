@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -11,7 +11,7 @@
       "query": "path:Kargaroth_Azrael",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 16768256
       }
     },
     {
@@ -19,6 +19,13 @@
       "color": {
         "a": 1,
         "rgb": 65280
+      }
+    },
+    {
+      "query": "path:Levasa_Razul",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
       }
     }
   ],
@@ -32,6 +39,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.40252075423479483,
+  "scale": 0.1305106406023876,
   "close": false
 }

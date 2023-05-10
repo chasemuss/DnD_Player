@@ -4,13 +4,13 @@ Current Status: Alive
 ---
 # Notable Locations
 ## Home
-![[Dungeons_and_Dragons/Player/Levasa_Razul/Obsidia]]
+![[Obsidia]]
 
 ---
 # Biography
-Doesn't like the folks of [[Dungeons_and_Dragons/Player/Levasa_Razul/Obsidia]] due to them killing her father and almost killing her, blaming her for the hellhounds that killed the miners. 
+Doesn't like the folks of [[Obsidia]] due to them killing her father and almost killing her, blaming her for the hellhounds that killed the miners. 
 
-She made a contract with [[Dungeons_and_Dragons/Player/Levasa_Razul/Azazel]] to be his student until he deemed her fit for society. 
+She made a contract with [[Azazel]] to be his student until he deemed her fit for society. 
 
 ---
 # Other Notes

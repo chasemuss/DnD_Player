@@ -4,7 +4,7 @@ Current Status: Alive
 ---
 # Notable Locations
 ## Home
-![[Dungeons_and_Dragons/Player/Levasa_Razul/Windsend#Silver Songbird]]
+![[Windsend#Silver Songbird]]
 
 ---
 # Biography
@@ -22,6 +22,6 @@ Current Status: Alive
 
 | Article Name                    | Relationship |
 | ------------------------------- | ------------ |
-| [[Dungeons_and_Dragons/Player/Levasa_Razul/Chauntea#Church of Chauntea]] | Member       |
+| [[Chauntea#Church of Chauntea]] | Member       |
 |                                 |              |
 

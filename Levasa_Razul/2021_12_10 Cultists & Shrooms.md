@@ -1,9 +1,9 @@
 # Session 4: Cultists & 'Shrooms
 ## Recap
 ## Plot
-We talk with the [[Dungeons_and_Dragons/Player/Levasa_Razul/Cultists of Seed|Cultist of Seed]] and he asks if we are willing to submit ourselves to Seed. I asked what that entails. He says that it requires faith. I offer to heal him in exchange for him to not be aggressive with our party. I heal him & [[Dungeons_and_Dragons/Player/Levasa_Razul/Lorenzo]] talks about the similarities between him being a follower of [[Dungeons_and_Dragons/Player/Levasa_Razul/Church of Bahamut|Bahamut]] and the Cultists following Seed.
+We talk with the [[Cultists of Seed|Cultist of Seed]] and he asks if we are willing to submit ourselves to Seed. I asked what that entails. He says that it requires faith. I offer to heal him in exchange for him to not be aggressive with our party. I heal him & [[Lorenzo]] talks about the similarities between him being a follower of [[Church of Bahamut|Bahamut]] and the Cultists following Seed.
 
-The cultist says that [[Dungeons_and_Dragons/Player/Levasa_Razul/Tanoq]] has Bane's eyes and holds a #DnD/Levasa/Amber/Nucleus. [[Dungeons_and_Dragons/Player/Levasa_Razul/Dedera]] asks him why he follows Seed and the cultist says, "I achieved enlightenment and that why I follow him. He is the truth. If you saw the light, you would too. If you saw the glow." He describes the glow as "all around us. In his eyes (pointing to Tanoq) in the sky and in the water." He confirms that he can see traces of amber and that the more faith one has in Seed, the more of a vessel of Seed you become and the more blessings he bestows on you. He says that amber is his power & his prison. 
+The cultist says that [[Tanoq]] has Bane's eyes and holds a #DnD/Levasa/Amber/Nucleus. [[Dedera]] asks him why he follows Seed and the cultist says, "I achieved enlightenment and that why I follow him. He is the truth. If you saw the light, you would too. If you saw the glow." He describes the glow as "all around us. In his eyes (pointing to Tanoq) in the sky and in the water." He confirms that he can see traces of amber and that the more faith one has in Seed, the more of a vessel of Seed you become and the more blessings he bestows on you. He says that amber is his power & his prison. 
 
 After helping heal him, he hands me a syringe with #DnD/Levasa/Amber/Liquid and hands it to me. He says that it is all he has and that I can do with it as I please, although I can learn more about Seed by going to the Section 12 Lab in Heartbeat. They can tell me more about the #DnD/Levasa/Amber/Liquid. 
 
@@ -21,4 +21,4 @@ Dedera says that Azazel looks like Kreth with his _Form of Dread_. [[Eiden]] has
 - 
 # Meta Data
 - Tags: #DnD/Levasa/Campaign_Notes 
-- Campaign: [[Dungeons_and_Dragons/Player/Levasa_Razul/Levasa]]
+- Campaign: [[Levasa]]

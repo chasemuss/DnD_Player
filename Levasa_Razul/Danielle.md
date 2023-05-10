@@ -14,5 +14,5 @@ Current Status: #DnD/Levasa/Alive
 
 ## Other Information
 - Dwarf
-- Priestess of [[Dungeons_and_Dragons/Player/Levasa_Razul/Chauntea]]
+- Priestess of [[Chauntea]]
 - [[Eiden]]'s Spy in [[Chauntea's Hearth]]

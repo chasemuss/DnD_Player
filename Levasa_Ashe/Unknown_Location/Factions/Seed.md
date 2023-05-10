@@ -1,7 +1,8 @@
 ---
 tags:
-- 
+- God/Bane/Followers
 alias:
+- Cult of Bane
 - 
 home_base:
 - 

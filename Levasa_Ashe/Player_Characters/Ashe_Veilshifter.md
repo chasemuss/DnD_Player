@@ -39,7 +39,8 @@ alias:
 	- Gulls - Former Member
 		- [[Arkos]] - worked alongside him on a few heists
 	- [[The_Raven_Queen]] - Patron
-	- [[Ophelia]] - Helped him once he got to Heartbeat
+	- [[The_Formless_Brotherhood]]
+		- [[Ophelia]] - Helped him once he got to Heartbeat
 - Motivations: Defeat those that would hurt the down-trodden and weak. 
 - Secrets: He keeps his changling nature a secret for fear of the distrust it would cause.
 - Quirks: 

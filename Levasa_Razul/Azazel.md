@@ -4,7 +4,6 @@ Current Status: Alive
 ---
 # Notable Locations
 ## Home
-![[]]
 
 ---
 # Biography
@@ -23,4 +22,4 @@ Current Status: Alive
 | Article Name | Relationship |
 | ------------ | ------------ |
 | [[Levasa/Asmodeus]] | Father       |
-| [[Dungeons_and_Dragons/Player/Levasa_Razul/Lyserah]]  | Student      |
+| [[Lyserah]]  | Student      |

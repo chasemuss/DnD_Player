@@ -5,7 +5,7 @@
 - College of Glamour
 	- [[Forte]]: Professor
 - College of Lore
-	- [[Dungeons_and_Dragons/Player/Levasa_Razul/Liana Rose]]: Professor
+	- [[Liana Rose]]: Professor
 	- [[Lev]]: Student
 	- [[Horton Garvy]]: Professor
 - Tinkerer's Guild

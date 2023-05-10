@@ -4,7 +4,7 @@ Current Status: Alive
 ---
 # Notable Locations
 ## Home
-![[Dungeons_and_Dragons/Player/Levasa_Razul/Windsend#The Palace]]
+![[Windsend#The Palace]]
 
 ---
 # Biography
@@ -22,5 +22,5 @@ Current Status: Alive
 
 | Article Name | Relationship |
 | ------------ | ------------ |
-| [[Dungeons_and_Dragons/Player/Levasa_Razul/Windsend]] | Hometown     |
+| [[Windsend]] | Hometown     |
 |              |              |

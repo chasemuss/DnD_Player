@@ -14,7 +14,7 @@ Current Status: #DnD/Levasa/Alive
 - [[Aimee]] (Adopted Sister)
 - [[Lucius]] (Adopted Brother)
 - [[Gael]] (m. [[Ann Gao]]) (Uncle & Aunt)
-- [[Dungeons_and_Dragons/Player/Levasa_Razul/Lorenzo]] (Cousin)
+- [[Lorenzo]] (Cousin)
 - [[Antares]] (Cousin)
 - [[Alkaid]] (m. [[Tanis]]) (Cousin)
 	- [[Eiden]]
@@ -29,4 +29,4 @@ Current Status: #DnD/Levasa/Alive
 ## Pseudonyms
 
 ## Other Information
-- Owns [[Dungeons_and_Dragons/Player/Levasa_Razul/Twilight Tower]]
+- Owns [[Twilight Tower]]
