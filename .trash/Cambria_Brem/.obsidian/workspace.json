@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "2f1423282c6178f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bf480cd821c0b6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2efaedb6c09d5379",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3c16fa0586dbe77",
+    "type": "split",
+    "children": [
+      {
+        "id": "37b2883231035fe3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2859bfb45af1d8a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "01def76d94326950",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[[asmode",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "975ab6c12fb9a011",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "209966a51fb411fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "21bbb8748578e33b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2ac07031f24f54e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27aa82891cef769d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f193a8d53bc56fd4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b744a9771787241b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "0f26bf1ddb7deaa0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "34f844561170667f",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2efaedb6c09d5379",
+  "lastOpenFiles": [
+    "Journal/2022/2022_04/2022_04_01.md",
+    "Journal/2022/2022_03/2022_03_01.md",
+    "Journal/2022/2022_03/2022_03_30.md",
+    "Job Search/Job Search.md",
+    "Games/Magic The Gathering/Deck Ideas.md",
+    "Games/Dungeons & Dragons/DM Notes.md",
+    "Games/Dungeons & Dragons/Kargaroth/_The Story.md",
+    "D&D_Kargaroth/_The Story.md",
+    "Games/Dungeons & Dragons/Homebrew/Tortle Dragonborn.jpg",
+    "Games/Dungeons & Dragons/Greymoor/Greymoor.md"
+  ]
+}

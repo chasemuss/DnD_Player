@@ -1,0 +1,8 @@
+{
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "Templates (Kargaroth)/"
+  ],
+  "newFileLocation": "current",
+  "promptDelete": false
+}
