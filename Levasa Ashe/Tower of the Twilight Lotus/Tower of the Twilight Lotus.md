@@ -1,6 +1,6 @@
 ---
 tags:
-- Location/
+- Location/Tower_of_the_Twilight_Lotus
 alias:
 - 
 ---

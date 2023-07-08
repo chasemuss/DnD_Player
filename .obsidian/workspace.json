@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Levasa_Ashe/Player_Characters/Ashe_Veilshifter.md",
+                "file": "Levasa Ashe/Session_Notes/2023-07-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Location/",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Levasa_Ashe/Player_Characters/Ashe_Veilshifter.md",
+                "file": "Levasa Ashe/Session_Notes/2023-07-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Levasa_Ashe/Player_Characters/Ashe_Veilshifter.md",
+                "file": "Levasa Ashe/Session_Notes/2023-07-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Levasa_Ashe/Player_Characters/Ashe_Veilshifter.md"
+                "file": "Levasa Ashe/Session_Notes/2023-07-07.md"
               }
             }
           },
@@ -174,6 +174,10 @@
   },
   "active": "6112513c131450f7",
   "lastOpenFiles": [
+    "Levasa Ashe/Tower of the Twilight Lotus/Tower of the Twilight Lotus.md",
+    "Levasa Ashe/Session_Notes/2023-07-07.md",
+    "Levasa Ashe/Player_Characters/Ashe Veilshifter.md",
+    "Levasa_Ashe/Player_Characters/Ashe_Veilshifter.md",
     "Levasa Ashe/Windsend/Characters/Therion_Portrait.png",
     "Levasa Ashe/Windsend/Characters/Therion.md",
     "Levasa Ashe/Windsend/Characters/Gustave Epensen.md",
@@ -200,10 +204,8 @@
     "Levasa Ashe/Tower of the Twilight Lotus/Factions/Half-Moon Hunters.md",
     "Levasa Ashe/Tower of the Twilight Lotus/Characters/Antares.md",
     "Levasa Ashe/Tower of the Twilight Lotus/Factions",
-    "Levasa Ashe/Tower of the Twilight Lotus/Tower of the Twilight Lotus.md",
     "Levasa Ashe/Tower of the Twilight Lotus/Characters",
     "Levasa Ashe/Tower of the Twilight Lotus",
-    "Levasa Ashe/Session_Notes/2023-07-07.md",
     "Levasa Ashe/Session_Notes",
     "Levasa Ashe/Player_Characters/Tanoq.md",
     "Levasa Ashe/Player_Characters/Persona - Cyrus.png",
@@ -211,7 +213,6 @@
     "Levasa Ashe/Player_Characters/Dedera Free.md",
     "Levasa Ashe/Player_Characters/Azazel.md",
     "Levasa Ashe/Player_Characters/Ashe_Portrait.png",
-    "Levasa Ashe/Player_Characters/Ashe Veilshifter.md",
     "Levasa Ashe/Heartbeat/Factions/Scale.md",
     "Levasa Ashe/Attachments/Guidelines.gif",
     "Character Ideas/Tortle Dragonborn.jpg",
@@ -219,7 +220,6 @@
     "Levasa Ashe/Player_Characters/Persona - Cyrus 1.png",
     "Pasted image 20230616203335.png",
     "Levasa_Ashe/Player_Characters/Ashe_Portrait.png",
-    "Dungeons_and_Dragons/Player/Levasa_Razul/Character_Ideas/Ashe_2.png",
     "Connections.canvas",
     "Untitled.canvas"
   ]
