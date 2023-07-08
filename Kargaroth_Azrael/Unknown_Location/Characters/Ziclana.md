@@ -1,9 +1,7 @@
 ---
 tags:
-- Race/Drow
-- Profession/Unknown
-- Faction/Unknown
-- Location/Unknown_Location
+- DnD/Kargaroth/Faction/Unknown
+- DnD/Kargaroth/Location/Unknown_Location
 alias:
 - Ziclana
 ---

@@ -1,9 +1,7 @@
 ---
 tags:
-- Race/Angel/Valkyrie
-- Profession/Unknown
-- God/Phorsphoran
-- Location/Unknown_Location
+- DnD/Kargaroth/God/Phorsphoran
+- DnD/Kargaroth/Location/Unknown_Location
 alias:
 - Valkyria
 ---

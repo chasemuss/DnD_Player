@@ -1,7 +1,7 @@
 ---
 tags:
-- Faction/Blue_Crusade/Lapis_Legion
-- Location/Transient_Entities/Blue_Crusade
+- DnD/Kargaroth/Faction/Blue_Crusade/Lapis_Legion
+- DnD/Kargaroth/Location/Transient_Entities/Blue_Crusade
 alias:
 - 
 ---

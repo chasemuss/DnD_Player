@@ -1,9 +1,7 @@
 ---
 tags:
-- Race/Unknown
-- Profession/Blue_Crusade/Cobalt_Cascade/Leader
-- Faction/Blue_Crusade/Cobalt_Cascade
-- Location/Transient_Entities/Factions/Blue_Crusade/Cobalt_Cascade
+- DnD/Kargaroth/Faction/Blue_Crusade/Cobalt_Cascade/Leader
+- DnD/Kargaroth/Location/Transient_Entities/Factions/Blue_Crusade/Cobalt_Cascade
 alias:
 - 
 ---

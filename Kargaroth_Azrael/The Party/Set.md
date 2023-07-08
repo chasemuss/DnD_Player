@@ -1,10 +1,7 @@
 ---
 tags:
-- Race/Aasimar
-- Profession/Adventurer
-- Profession/Cleric
-- Faction/The_Party
-- Location/The_Party
+- DnD/Kargaroth/Faction/The_Party
+- DnD/Kargaroth/Location/The_Party
 alias:
 - 
 ---
@@ -12,7 +9,6 @@ alias:
 - Alignment: 
 
 Shield Guardian's name is S.C.A.L.E.
-
 
 ## Notable Equipment
 - [Equipment Name]

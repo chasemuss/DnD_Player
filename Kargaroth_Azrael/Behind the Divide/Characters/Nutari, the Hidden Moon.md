@@ -1,7 +1,7 @@
 ---
 tags:
-- Location/Behind_the_Divide
-- God/Nutari/Artifact/Starlit
+- DnD/Kargaroth/Location/Behind_the_Divide
+- DnD/Kargaroth/God/Nutari/Artifact/Starlit
 alias:
 - Nutari
 ---

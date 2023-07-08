@@ -1,8 +1,8 @@
 ---
 tags:
-- Location/Behind_the_Divide
-- God/Byvitar/Artifact/Byvitars_Luck
-- God/Byvitar/Artifact/Mirage_Reach_of_Twilights_End
+- DnD/Kargaroth/Location/Behind_the_Divide
+- DnD/Kargaroth/God/Byvitar/Artifact/Byvitars_Luck
+- DnD/Kargaroth/God/Byvitar/Artifact/Mirage_Reach_of_Twilights_End
 alias:
 - Byvitar
 ---

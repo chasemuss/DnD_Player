@@ -1,6 +1,6 @@
 ---
 tags:
-- Location/Silothgroth
+- DnD/Kargaroth/Location/Silothgroth
 alias:
 - 
 ---

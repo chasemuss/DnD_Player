@@ -1,6 +1,6 @@
 ---
 tags:
-- God/Nutari/Artifact/Starlit
+- DnD/Kargaroth/God/Nutari/Artifact/Starlit
 ---
 
 # Notes

@@ -1,7 +1,7 @@
 ---
 tags:
-- Location/Behind_the_Divide
-- God/Seraphina/Artifact/Ataraxia_the_Dragonlance
+- DnD/Kargaroth/Location/Behind_the_Divide
+- DnD/Kargaroth/God/Seraphina/Artifact/Ataraxia_the_Dragonlance
 alias:
 - Seraphina
 ---

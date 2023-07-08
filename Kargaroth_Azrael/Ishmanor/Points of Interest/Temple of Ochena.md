@@ -1,6 +1,6 @@
 ---
 tags:
-- Location/Ishmanor/Temple_of_Ochena
+- DnD/Kargaroth/Location/Ishmanor/Temple_of_Ochena
 alias:
 - 
 ---

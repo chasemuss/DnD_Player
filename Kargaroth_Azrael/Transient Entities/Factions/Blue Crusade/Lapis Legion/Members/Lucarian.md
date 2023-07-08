@@ -1,9 +1,7 @@
 ---
 tags:
-- Race/Unknown
-- Profession/Blue_Crusade/Lapis_Legion/Leader
-- Faction/Blue_Crusade/Lapis_Legion
-- Location/Transient_Entities/Blue_Crusade
+- DnD/Kargaroth/Faction/Blue_Crusade/Lapis_Legion/Leader
+- DnD/Kargaroth/Location/Transient_Entities/Blue_Crusade
 alias:
 - 
 ---

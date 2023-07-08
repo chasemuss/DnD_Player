@@ -1,6 +1,6 @@
 ---
 tags:
-- God/Seraphina/Artifact/Ataraxia_the_Dragonlance
+- DnD/Kargaroth/God/Seraphina/Artifact/Ataraxia_the_Dragonlance
 ---
 
 # Notes

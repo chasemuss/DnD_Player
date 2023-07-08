@@ -1,5 +1,5 @@
 # Dedera
-Current Status: #DnD/Levasa/Alive 
+
 ## Known Relatives
 - [[Yves]] (Biological Father)
 - [[Shenna]] (Biological Mother)
@@ -14,7 +14,7 @@ Current Status: #DnD/Levasa/Alive
 - [[Aimee]] (Adopted Sister)
 - [[Lucius]] (Adopted Brother)
 - [[Gael]] (m. [[Ann Gao]]) (Uncle & Aunt)
-- [[Lorenzo]] (Cousin)
+- [[Dungeons_and_Dragons/Player/Levasa_Razul/Lorenzo]] (Cousin)
 - [[Antares]] (Cousin)
 - [[Alkaid]] (m. [[Tanis]]) (Cousin)
 	- [[Eiden]]
@@ -29,4 +29,4 @@ Current Status: #DnD/Levasa/Alive
 ## Pseudonyms
 
 ## Other Information
-- Owns [[Twilight Tower]]
+- Owns [[Dungeons_and_Dragons/Player/Levasa_Razul/Twilight Tower]]

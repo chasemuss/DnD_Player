@@ -1,9 +1,7 @@
 ---
 tags:
-- Race/Goliath
-- Profession/Adventurer
-- Faction/Unknown
-- Location/Gods_Mouth
+- DnD/Kargaroth/Faction/Unknown
+- DnD/Kargaroth/Location/Gods_Mouth
 alias:
 - Ulneth
 ---

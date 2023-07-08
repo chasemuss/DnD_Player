@@ -1,7 +1,7 @@
 ---
 tags:
-- Location/Behind_the_Divide
-- God/Kexdohr
+- DnD/Kargaroth/Location/Behind_the_Divide
+- DnD/Kargaroth/God/Kexdohr
 alias:
 - 
 ---

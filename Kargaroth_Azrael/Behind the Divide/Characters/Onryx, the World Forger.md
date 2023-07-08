@@ -1,7 +1,7 @@
 ---
 tags:
-- Location/Behind_the_Divide
-- God/Onryx/Artifact/The_World_Forge
+- DnD/Kargaroth/Location/Behind_the_Divide
+- DnD/Kargaroth/God/Onryx/Artifact/The_World_Forge
 alias:
 - Onryx
 ---

@@ -1,8 +1,8 @@
 ---
 tags:
-- Location/Behind_the_Divide
-- God/Boaos/Artifact/Omnipiercent_Eyes
-- God/Boaos/Artifact/Collector_Deaths_Reach
+- DnD/Kargaroth/Location/Behind_the_Divide
+- DnD/Kargaroth/God/Boaos/Artifact/Omnipiercent_Eyes
+- DnD/Kargaroth/God/Boaos/Artifact/Collector_Deaths_Reach
 alias:
 - Boaos
 - The Grim Reaper
@@ -16,8 +16,6 @@ Boaos was one of [[Xinzounux]]'s students and from [[Starmouth|Starmouth]].
 
 He was the first lich and taught [[Xinzounux]] how to be a lich
 - Involved sacrificing his eyes(?)
-
-Not behind the Divine Divide and the reasons how are unknown. 
 
 ## Domains
 - Death

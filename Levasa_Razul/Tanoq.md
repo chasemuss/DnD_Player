@@ -11,11 +11,6 @@ Current Status: Alive
 
 ---
 # Other Notes
-## Languages
-- #DnD/Language/Common 
-- #DnD/Language/Dwarvish 
-- #DnD/Language/Goblin
-- #DnD/Language/Undercommon
 
 ---
 # Related Articles

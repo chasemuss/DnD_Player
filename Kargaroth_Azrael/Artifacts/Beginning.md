@@ -1,6 +1,6 @@
 ---
 tags:
-- God/Aterna/Artifact/Beginning
+- DnD/Kargaroth/God/Aterna/Artifact/Beginning
 ---
 
 # Notes

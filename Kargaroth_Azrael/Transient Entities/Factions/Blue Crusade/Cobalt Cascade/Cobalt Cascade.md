@@ -1,7 +1,7 @@
 ---
 tags:
-- Faction/Cobalt_Cascade
-- Location/Transient_Entities/Blue_Crusade
+- DnD/Kargaroth/Faction/Cobalt_Cascade
+- DnD/Kargaroth/Location/Transient_Entities/Blue_Crusade
 alias:
 - 
 ---

@@ -1,4 +1,4 @@
-Current Status: #DnD/Levasa/Alive 
+
 ## Known Relatives
 
 ## Known Locations

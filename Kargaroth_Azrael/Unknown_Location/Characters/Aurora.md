@@ -1,9 +1,7 @@
 ---
 tags:
-- Race/Half_Elf/Revenant
-- Profession/Marauder
-- Faction/Unknown
-- Location/Unknown_Location
+- DnD/Kargaroth/Faction/Unknown
+- DnD/Kargaroth/Location/Unknown_Location
 alias:
 - 
 ---

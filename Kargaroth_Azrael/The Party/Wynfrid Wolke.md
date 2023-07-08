@@ -1,10 +1,8 @@
 ---
 tags:
-- Race/Genasi/Air
-- Profession/Rogue
-- Faction/The_Party
-- Location/The_Party
-- God/Boaos/Champion
+- DnD/Kargaroth/Faction/The_Party
+- DnD/Kargaroth/Location/The_Party
+- DnD/Kargaroth/God/Boaos/Champion
 alias:
 - Wynfrid
 ---

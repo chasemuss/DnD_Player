@@ -1,15 +1,15 @@
 ---
 tags:
-- Race/Dwarf
-- Profession/King
-- God/Onryx/Champion
-- Location/Unknown_Location
+- DnD/Kargaroth/God/Onryx/Champion
+- DnD/Kargaroth/Location/Unknown_Location
 alias:
 - World Upholder
 - Dwarven King
 ---
 # Basic Info
 - Alignment: 
+
+King of the Dwarves
 
 ## Notable Equipment
 - [Equipment Name]

@@ -1,9 +1,7 @@
 ---
 tags:
-- Race/Devil
-- Profession/King
-- Faction/Hell
-- Location/Hell
+- DnD/Kargaroth/Faction/Hell
+- DnD/Kargaroth/Location/Hell
 alias:
 - 
 ---

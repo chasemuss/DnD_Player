@@ -1,6 +1,6 @@
 ---
 tags:
-- Location/Ishmanor
+- DnD/Kargaroth/Location/Ishmanor
 alias:
 - 
 ---

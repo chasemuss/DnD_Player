@@ -1,9 +1,7 @@
 ---
 tags:
-- Race/Unknown
-- Profession/Blue_Crusade/Sapphire_Skies
-- Faction/Blue_Crusade/Sapphire_Skies
-- Location/Transient_Entities/Blue_Crusade/Sapphire_Skies
+- DnD/Kargaroth/Faction/Blue_Crusade/Sapphire_Skies
+- DnD/Kargaroth/Location/Transient_Entities/Blue_Crusade/Sapphire_Skies
 alias:
 - 
 ---

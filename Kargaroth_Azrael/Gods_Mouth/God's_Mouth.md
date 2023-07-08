@@ -1,6 +1,6 @@
 ---
 tags:
-- Location/Gods_Mouth
+- DnD/Kargaroth/Location/Gods_Mouth
 alias:
 - God's Mouth
 ---

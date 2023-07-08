@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7d42ebb072dd08b6",
+        "id": "a34ee67523eeb1f1",
         "type": "tabs",
         "children": [
           {
-            "id": "dd82b08354b3ef28",
+            "id": "6112513c131450f7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Levasa Ashe/Session_Notes/2023-07-07.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#God",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Levasa Ashe/Session_Notes/2023-07-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Levasa Ashe/Session_Notes/2023-07-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Levasa Ashe/Session_Notes/2023-07-07.md"
+              }
             }
           },
           {
@@ -164,54 +172,54 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dd82b08354b3ef28",
+  "active": "6112513c131450f7",
   "lastOpenFiles": [
-    "Levasa_Ashe/Heartbeat/Factions/The_Formless_Brotherhood.md",
-    "Levasa_Ashe/Player_Characters/Ashe_Veilshifter.md",
-    "Levasa_Ashe/Unknown_Location/Factions/Seed.md",
-    "Levasa_Ashe/Heartbeat/Characters/Ophelia.md",
-    "Levasa_Ashe/Attachments/Ophelia_Portrait.png",
-    "Levasa_Ashe/Player_Characters/Ingrid_Epensen.md",
-    "Levasa_Ashe/Attachments",
-    "Levasa_Ashe/Attachments/Ashe_Portrait.png",
-    "Levasa_Razul/Dragon's Wrath Dagger.png",
-    "Levasa_Razul/Crumb.md",
-    "Levasa_Razul/Cultists of Seed.md",
-    "Levasa_Razul/Danielle.md",
-    "Levasa_Razul/Half-Moon Bloodhunters.md",
-    "Levasa_Razul/Gustave Epensen.md",
-    "Levasa_Razul/Ingrid Epensen.md",
-    "Levasa_Razul/Leland Silvi.md",
-    "Levasa_Razul/Lorenzo.md",
-    "Levasa_Razul/Levasa.md",
-    "Levasa_Razul/Lyserah.md",
-    "Levasa_Razul/Obsidia.md",
-    "Levasa_Razul/Razul Dazulson.md",
-    "Levasa_Razul/Sporos.md",
-    "Levasa_Razul/The Mew.md",
-    "Levasa_Razul/The Party.md",
-    "Levasa_Razul/Windsend.md",
-    "Levasa_Razul/Dedera Free.md",
+    "Levasa_Razul/Rakshasa Notes.md",
+    "Levasa_Razul/Razul.md",
+    "_Templates/Faction Template.md",
+    "Levasa Ashe/Unspecified/Factions/Seed.md",
+    "Levasa Ashe/Unspecified/Characters/Razul Dazulson.md",
+    "Levasa Ashe/Unspecified/Characters/Eiden.md",
+    "Levasa Ashe/Session_Notes/2023-07-07.md",
     "Levasa_Razul/Dedera.md",
-    "Levasa_Razul/Church of Chauntea.md",
-    "Levasa_Razul/Church of Bahamut.md",
-    "Levasa_Razul/Chauntea.md",
-    "Levasa_Razul/Character_Ideas/Ashe_2.png",
-    "Levasa_Razul/Character_Ideas/Ashe.png",
-    "Levasa_Razul/Character_Ideas/Razul_Level_20.pdf",
-    "Kargaroth_Azrael/The Party/Azrael_Monster_Stat_Block.png",
-    "Kargaroth_Azrael/Attachments/Azrael's Deathscape.jpg",
-    "Kargaroth_Azrael/Attachments/Azraels_Deathscape.jpg",
-    "Pasted image 20230506013350.png",
+    "Levasa_Razul/Dedera Free.md",
+    "Levasa_Razul/Royal Family.md",
+    "Levasa Ashe/Tower of the Twilight Lotus/Factions/Order of the Twilight Lotus.md",
+    "Levasa_Razul/Order of the Twilight Lotus.md",
+    "Levasa Ashe/Player_Characters/Ashe Veilshifter.md",
+    "Levasa Ashe/Tower of the Twilight Lotus/Characters/Antares.md",
+    "Levasa Ashe/Tower of the Twilight Lotus/Factions/Half-Moon Hunters.md",
+    "Levasa Ashe/Unspecified/Characters/Oka.md",
+    "Levasa Ashe/Unspecified/Characters/Ophelia.md",
+    "Levasa Ashe/Unspecified/Factions/The Formless Brotherhood.md",
+    "Levasa_Razul/Leland Silvi.md",
+    "Levasa Ashe/Tower of the Twilight Lotus/Tower of the Twilight Lotus.md",
+    "Levasa Ashe/Player_Characters/Ashe_Portrait.png",
+    "Levasa Ashe/Player_Characters/Persona - Cyrus.png",
+    "Levasa Ashe/Player_Characters/Persona - Cyrus 1.png",
+    "Levasa Ashe/Tower of the Twilight Lotus/Factions",
+    "Levasa Ashe/Tower of the Twilight Lotus/Characters",
+    "Levasa Ashe/Tower of the Twilight Lotus",
+    "Levasa Ashe/Heartbeat/Factions/Scale.md",
+    "Levasa Ashe/Heartbeat/Untitled.md",
+    "Levasa Ashe/Azazel's Contract with the Church.md",
+    "Levasa Ashe/Session_Notes/2023-06-20.md",
+    "_Templates/Session Notes.md",
+    "Levasa Ashe/Player_Characters/Azazel.md",
+    "Levasa Ashe/Attachments/Guidelines.gif",
+    "Levasa Ashe/Attachments/Guidelines.gif.crdownload",
+    "Levasa Ashe/Attachments",
+    "Levasa Ashe/New folder",
+    "Levasa Ashe/Session_Notes",
+    "Pasted image 20230616203335.png",
+    "Levasa Ashe/Unspecified/Characters/Ophelia_Portrait.png",
     "Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide/Characters",
     "Dungeons_and_Dragons/Player/Kargaroth_Azrael/Behind the Divide",
     "Dungeons_and_Dragons/Player/Kargaroth_Azrael",
-    "Dungeons_and_Dragons/Player",
-    "Dungeons_and_Dragons",
-    "Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location/Characters",
-    "Dungeons_and_Dragons/Player/Kargaroth_Azrael/Unknown_Location",
-    "Dungeons_and_Dragons/Player/Levasa_Razul/Levasa World Information.pdf",
+    "Levasa_Ashe/Player_Characters/Ashe_Portrait.png",
     "Dungeons_and_Dragons/Player/Levasa_Razul/Character_Ideas/Ashe_2.png",
+    "Dungeons_and_Dragons/Player/Levasa_Razul/Character_Ideas/Ashe.png",
+    "The Party/Azrael_Monster_Stat_Block.png",
     "Connections.canvas",
     "Untitled.canvas"
   ]

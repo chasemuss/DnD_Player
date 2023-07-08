@@ -1,9 +1,7 @@
 ---
 tags:
-- Race/Devil
-- Profession/Magic_Item_Broker
-- Faction/Criminal
-- Location/Hell
+- DnD/Kargaroth/Faction/Criminal
+- DnD/Kargaroth/Location/Hell
 alias:
 - Drar
 ---

@@ -1,7 +1,7 @@
 ---
 tags:
-- Faction/Blue_Crusade
-- Location/Transient_Entities
+- DnD/Kargaroth/Faction/Blue_Crusade
+- DnD/Kargaroth/Location/Transient_Entities
 alias:
 - 
 ---

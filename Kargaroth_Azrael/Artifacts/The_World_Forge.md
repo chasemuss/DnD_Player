@@ -1,6 +1,6 @@
 ---
 tags:
-- God/Onryx/Artifact/The_World_Forge
+- DnD/Kargaroth/God/Onryx/Artifact/The_World_Forge
 ---
 
 # Notes

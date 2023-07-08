@@ -1,6 +1,6 @@
 ---
 tags:
-- God/Boaos/Artifact/Collector_Deaths_Reach
+- DnD/Kargaroth/God/Boaos/Artifact/Collector_Deaths_Reach
 ---
 
 # Notes

@@ -1,11 +1,8 @@
 ---
 tags:
-- Race/Halfling
-- Profession/Wizard/Conjurer
-- Profession/Adventurer
-- Faction/The_Party
-- Faction/Malachite_League
-- Location/The_Party
+- DnD/Kargaroth/Faction/The_Party
+- DnD/Kargaroth/Faction/Malachite_League
+- DnD/Kargaroth/Location/The_Party
 alias:
 - Travis
 - Merry

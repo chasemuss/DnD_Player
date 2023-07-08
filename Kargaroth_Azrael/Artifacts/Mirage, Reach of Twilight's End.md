@@ -1,6 +1,6 @@
 ---
 tags:
-- God/Byvitar/Artifact/Mirage_Reach_of_Twilights_End
+- DnD/Kargaroth/God/Byvitar/Artifact/Mirage_Reach_of_Twilights_End
 ---
 
 # Notes

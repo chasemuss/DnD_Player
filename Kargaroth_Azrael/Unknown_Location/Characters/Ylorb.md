@@ -1,10 +1,7 @@
 ---
 tags:
-- Race/Goliath
-- Race/Demon
-- Profession/Unknown
-- God/Cijun/Champion
-- Location/Unknown_Location
+- DnD/Kargaroth/God/Cijun/Champion
+- DnD/Kargaroth/Location/Unknown_Location
 alias:
 - Ylorb
 ---

@@ -1,15 +1,15 @@
 # The Party
 ## Known Members
-- [[Azazel]]
-- [[Dedera]]
-- [[Ingrid Epensen]]
-- [[Lorenzo]]
-- [[Razul]]
-- [[Tanoq]]
+- [[Dungeons_and_Dragons/Player/Levasa_Razul/Azazel]]
+- [[Dungeons_and_Dragons/Player/Levasa_Razul/Dedera]]
+- [[Dungeons_and_Dragons/Player/Levasa_Razul/Ingrid Epensen]]
+- [[Dungeons_and_Dragons/Player/Levasa_Razul/Lorenzo]]
+- [[Dungeons_and_Dragons/Player/Levasa_Razul/Razul]]
+- [[Dungeons_and_Dragons/Player/Levasa_Razul/Tanoq]]
 
 ## Other Connections
-- [[Lyserah]]: Azazel's Apprentice
-- [[Royal Family]]: Relatives of Dedera & Lorenzo
+- [[Dungeons_and_Dragons/Player/Levasa_Razul/Lyserah]]: Azazel's Apprentice
+- [[Dungeons_and_Dragons/Player/Levasa_Razul/Royal Family]]: Relatives of Dedera & Lorenzo
 
 ## Goals & Desires
 

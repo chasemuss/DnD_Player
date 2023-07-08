@@ -1,6 +1,6 @@
 ---
 tags:
-- Artifact/The_Atlas_of_Creation/The_Book_of_True_Names
+- DnD/Kargaroth/Artifact/The_Atlas_of_Creation/The_Book_of_True_Names
 ---
 
 # Notes

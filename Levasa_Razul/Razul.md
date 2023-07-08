@@ -1,5 +1,5 @@
 # Razul Dazulson
-Current Status: #DnD/Levasa/Alive 
+
 ## Known Relatives
 - [[Dazul & Frazul]] (Father & Mother)
 

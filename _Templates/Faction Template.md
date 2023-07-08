@@ -15,13 +15,3 @@ home_base:
 
 
 ## Former Members
-
-<%*
-	const dir = "folder/folder/something/"
-	const current_path = tp.file.path(true).replace(".md", "")
-	console.log(current_path)
-	if (!tp.file.exists(current_path)) {
-		await this.app.vault.createFolder(current_path)
-	}
-	await tp.file.move(tp.file.path(true) + "/" + tp.file.title)
-%>

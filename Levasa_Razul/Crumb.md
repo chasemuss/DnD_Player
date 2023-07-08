@@ -1,9 +1,9 @@
 # Crumb
-Current Status: #DnD/Levasa/Alive
+
 ## Known Relatives
 
 ## Known Locations
-[[Windsend#The Flurries]]
+[[Dungeons_and_Dragons/Player/Levasa_Razul/Windsend#The Flurries]]
 ## Goals & Desires
 
 ## Detests

@@ -1,9 +1,7 @@
 ---
 tags:
-- Race/Unknown
-- Profession/Vessel_Maker
-- God/Zicarae
-- Location/Unknown_Location
+- DnD/Kargaroth/God/Zicarae
+- DnD/Kargaroth/Location/Unknown_Location
 alias:
 - Hadulus
 ---

@@ -1,8 +1,6 @@
 ---
 tags:
-- Race/Sphinx
-- Profession/Magic_Item_Broker
-- Location/Silothgroth
+- DnD/Kargaroth/Location/Silothgroth
 alias:
 - 
 ---

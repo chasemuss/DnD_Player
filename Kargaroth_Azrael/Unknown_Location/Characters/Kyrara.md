@@ -1,10 +1,8 @@
 ---
 tags:
-- Race/Unknown
-- Profession/Unknown
-- God/Ochena/Champion
-- God/Ochena/Voice
-- Location/Unknown_Location
+- DnD/Kargaroth/God/Ochena/Champion
+- DnD/Kargaroth/God/Ochena/Voice
+- DnD/Kargaroth/Location/Unknown_Location
 alias:
 - Kyrara
 ---

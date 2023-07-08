@@ -1,7 +1,7 @@
 ---
 tags:
-- Location/Behind_the_Divide
-- God/Kehdea
+- DnD/Kargaroth/Location/Behind_the_Divide
+- DnD/Kargaroth/God/Kehdea
 alias:
 - Kehdea
 ---

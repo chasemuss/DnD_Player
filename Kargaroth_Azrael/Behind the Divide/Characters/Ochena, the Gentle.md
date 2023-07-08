@@ -1,7 +1,7 @@
 ---
 tags:
-- Location/Behind_the_Divide
-- God/Ochena
+- DnD/Kargaroth/Location/Behind_the_Divide
+- DnD/Kargaroth/God/Ochena
 alias:
 - Ochena
 ---

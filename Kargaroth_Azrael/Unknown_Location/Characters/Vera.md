@@ -1,9 +1,7 @@
 ---
 tags:
-- Race/Unknown
-- Profession/Mercenary
-- Faction/Unknown
-- Location/Unknown_Location
+- DnD/Kargaroth/Faction/Unknown
+- DnD/Kargaroth/Location/Unknown_Location
 alias:
 - Vera
 ---

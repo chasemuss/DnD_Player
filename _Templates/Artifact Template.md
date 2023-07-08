@@ -1,6 +1,6 @@
 ---
 tags:
-- Artifact
+- DnD/Kargaroth/Artifact
 ---
 
 # Notes

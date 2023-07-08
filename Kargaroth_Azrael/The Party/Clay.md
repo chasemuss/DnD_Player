@@ -1,10 +1,8 @@
 
 ---
 tags:
-- Race/Elf/Drow
-- Profession/Adventurer
-- Faction/The_Party
-- Location/The_Party
+- DnD/Kargaroth/Faction/The_Party
+- DnD/Kargaroth/Location/The_Party
 alias:
 - Valdamir
 ---

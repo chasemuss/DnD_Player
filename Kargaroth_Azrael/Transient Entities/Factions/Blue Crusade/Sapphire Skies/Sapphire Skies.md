@@ -1,7 +1,7 @@
 ---
 tags:
-- Faction/Blue_Crusade/Sapphire_Skies
-- Location/Transient_Entities/Blue_Crusade
+- DnD/Kargaroth/Faction/Blue_Crusade/Sapphire_Skies
+- DnD/Kargaroth/Location/Transient_Entities/Blue_Crusade
 alias:
 - 
 ---

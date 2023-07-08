@@ -3,7 +3,7 @@
 ## Plot
 We talked with Gecko and explained what happened. He said that we'd have to pay and it was decided (by the party & DM) that 15k GP would be the cost of relocating the town.
 
-The amber miners in Obsidia work for [[Scale]].
+The amber miners in Obsidia work for [[Dungeons_and_Dragons/Player/Levasa_Razul/Scale]].
 
 We had a long conversation regarding the morality of our actions, and whether or not we could've taken on the demons in the mines.
 
@@ -23,7 +23,7 @@ Kat retells the following: "Gecko told the miners at the height of the drinking 
 
 We leave Obsidia
 
-On our travel to Heartbeat, we are flagged down by a [Flumph](https://www.dndbeyond.com/monsters/flumph) floating and waving us down with what looks like paper detailing that [[Cultists of Seed]] are nearby, delivering it to Tanoq. We found a guy from Seed who was burned and dying. I tried to convince the cultist that I was a member of Seed, but he said I'm obviously not.
+On our travel to Heartbeat, we are flagged down by a [Flumph](https://www.dndbeyond.com/monsters/flumph) floating and waving us down with what looks like paper detailing that [[Dungeons_and_Dragons/Player/Levasa_Razul/Cultists of Seed]] are nearby, delivering it to Tanoq. We found a guy from Seed who was burned and dying. I tried to convince the cultist that I was a member of Seed, but he said I'm obviously not.
 
 ## Notable NPCs
 - Lyserah
@@ -31,5 +31,5 @@ On our travel to Heartbeat, we are flagged down by a [Flumph](https://www.dndbey
 - Kat
 # Meta Data
 - Tags: #DnD/Levasa/Campaign_Notes/Magical_Contract
-- Campaign: [[Levasa]]
+- Campaign: [[Dungeons_and_Dragons/Player/Levasa_Razul/Levasa]]
 

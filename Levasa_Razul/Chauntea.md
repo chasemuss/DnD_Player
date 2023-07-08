@@ -12,7 +12,7 @@ Current Status:
 ---
 # Other Notes
 ## Church of Chauntea
-Headquartered in [[Windsend]]
+Headquartered in [[Dungeons_and_Dragons/Player/Levasa_Razul/Windsend]]
 
 | Name                       | Role       |
 | -------------------------- | ---------- |

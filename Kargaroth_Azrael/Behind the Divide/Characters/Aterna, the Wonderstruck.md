@@ -1,8 +1,8 @@
 ---
 tags:
-- Location/Behind_the_Divide
-- God/Aterna/Artifact/End
-- God/Aterna/Artifact/Beginning
+- DnD/Kargaroth/Location/Behind_the_Divide
+- DnD/Kargaroth/God/Aterna/Artifact/End
+- DnD/Kargaroth/God/Aterna/Artifact/Beginning
 alias:
 - Aterna
 ---

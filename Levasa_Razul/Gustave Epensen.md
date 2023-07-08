@@ -1,10 +1,10 @@
 # Gustave Epensen
-Current Status: #DnD/Levasa/Alive 
+
 ## Known Relatives
-- [[Ingrid Epensen]]
+- [[Dungeons_and_Dragons/Player/Levasa_Razul/Ingrid Epensen]]
 
 ## Known Locations
-- [[Windsend#The Silver Songbird]]
+- [[Dungeons_and_Dragons/Player/Levasa_Razul/Windsend#The Silver Songbird]]
 
 ## Goals & Desires
 

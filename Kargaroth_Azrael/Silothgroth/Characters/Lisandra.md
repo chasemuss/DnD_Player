@@ -1,9 +1,7 @@
 ---
 tags:
-- Race/Unknown
-- Profession/Unknown
-- Faction/Unknown
-- Location/Silothgroth
+- DnD/Kargaroth/Faction/Unknown
+- DnD/Kargaroth/Location/Silothgroth
 alias:
 - 
 ---

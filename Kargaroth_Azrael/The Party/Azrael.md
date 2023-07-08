@@ -1,11 +1,9 @@
 ---
 tags:
-- Race/Aasimar
-- Profession/Adventurer
-- Faction/The_Party
-- Location/The_Party
-- God/Aterna/Artifact/End
-- God/Aterna/Artifact/Beginning
+- DnD/Kargaroth/Faction/The_Party
+- DnD/Kargaroth/Location/The_Party
+- DnD/Kargaroth/God/Aterna/Artifact/End
+- DnD/Kargaroth/God/Aterna/Artifact/Beginning
 alias:
 - The Black Sun
 ---
@@ -15,7 +13,7 @@ alias:
 ## Notable Equipment
 - [[End]]
 - [[Beginning]]
-- Molten Bronze Skin (Plate)
+- [Equipment Name]
 - [Equipment Name]
 - [Equipment Name]
 

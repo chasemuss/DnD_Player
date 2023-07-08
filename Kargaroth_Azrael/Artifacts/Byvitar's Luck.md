@@ -1,6 +1,6 @@
 ---
 tags:
-- God/Byvitar/Artifact/Byvitars_Luck
+- DnD/Kargaroth/God/Byvitar/Artifact/Byvitars_Luck
 ---
 
 # Notes

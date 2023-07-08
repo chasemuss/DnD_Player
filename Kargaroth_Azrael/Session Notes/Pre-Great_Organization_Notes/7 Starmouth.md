@@ -1,7 +1,7 @@
 ---
 tags: 
-- God/Aterna/Artifact/Beginning
-- God/Aterna/Artifact/End
+- DnD/Kargaroth/God/Aterna/Artifact/Beginning
+- DnD/Kargaroth/God/Aterna/Artifact/End
 ---
 
 We relax after our descent into hell by going to a pub (_The Amber Fox_) in [[Starmouth]]. [[Meridian]] contacts [[Teralis]] and Teralis teleports to us after we've had a bit much to drink. 

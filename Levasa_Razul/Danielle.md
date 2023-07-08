@@ -1,5 +1,5 @@
 # Danielle
-Current Status: #DnD/Levasa/Alive 
+
 ## Known Relatives
 
 ## Known Locations
@@ -14,5 +14,5 @@ Current Status: #DnD/Levasa/Alive
 
 ## Other Information
 - Dwarf
-- Priestess of [[Chauntea]]
+- Priestess of [[Dungeons_and_Dragons/Player/Levasa_Razul/Chauntea]]
 - [[Eiden]]'s Spy in [[Chauntea's Hearth]]

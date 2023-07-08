@@ -1,9 +1,7 @@
 ---
 tags:
-- Race/Tabaxi
-- Profession/Wizard/Necromancer
-- Location/The_Party
-- Faction/The_Party
+- DnD/Kargaroth/Location/The_Party
+- DnD/Kargaroth/Faction/The_Party
 alias:
 - Lily
 ---

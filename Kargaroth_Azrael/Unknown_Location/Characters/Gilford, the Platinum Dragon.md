@@ -1,9 +1,7 @@
 ---
 tags:
-- Race/Dragon
-- Profession/Unknown
-- God/Seraphina
-- Location/Unknown_Location
+- DnD/Kargaroth/God/Seraphina
+- DnD/Kargaroth/Location/Unknown_Location
 alias:
 - Gilford
 ---

@@ -1,9 +1,7 @@
 ---
 tags:
-- Race/Elf/Drow/Drider
-- Profession/Unknown
-- God/Zicarae/Voice
-- Location/Unknown_Location
+- DnD/Kargaroth/God/Zicarae/Voice
+- DnD/Kargaroth/Location/Unknown_Location
 alias:
 - 
 ---

@@ -1,5 +1,5 @@
 ---
-tags: Wells_of_Power
+tags: DnD/Kargaroth/Wells_of_Power
 ---
 
 We travel to the Elven Capital and collect a map, trying to figure out where to go. [[Solumn]] uses his artifact and it directs him to Rhys's hometown, Lyseer. 

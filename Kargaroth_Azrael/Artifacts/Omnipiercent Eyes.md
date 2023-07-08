@@ -1,6 +1,6 @@
 ---
 tags:
-- God/Boaos/Artifact/Omnipiercent_Eyes
+- DnD/Kargaroth/God/Boaos/Artifact/Omnipiercent_Eyes
 ---
 
 # Notes

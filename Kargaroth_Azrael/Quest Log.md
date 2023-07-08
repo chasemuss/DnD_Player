@@ -1,5 +1,10 @@
+---
+tags:
+- DnD/Kargaroth
+---
+
 # Party Quests
-- [ ] Kill Dalamar
+- [x] Kill Dalamar
 - [ ] Stop Zicarae's Plans
 	- [ ] Save Wynfrid's Father
 	- [ ] Save Lykin's Father

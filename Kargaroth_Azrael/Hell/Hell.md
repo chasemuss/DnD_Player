@@ -1,6 +1,6 @@
 ---
 tags:
-- Location/Hell
+- DnD/Kargaroth/Location/Hell
 alias:
 - 
 ---

@@ -1,7 +1,7 @@
 ---
 tags:
-- Location/Behind_the_Divide
-- God/Cijun/Artifact/Atherius
+- DnD/Kargaroth/Location/Behind_the_Divide
+- DnD/Kargaroth/God/Cijun/Artifact/Atherius
 alias:
 - Cijun
 ---

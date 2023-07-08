@@ -1,9 +1,7 @@
 ---
 tags:
-- Race/Elf/Drow/Revenant
-- Profession/Unknown
-- God/Cijun
-- Location/Unknown_Location
+- DnD/Kargaroth/God/Cijun
+- DnD/Kargaroth/Location/Unknown_Location
 alias:
 - 
 ---

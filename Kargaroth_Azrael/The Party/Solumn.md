@@ -1,11 +1,9 @@
 ---
 tags:
-- Race/Tiefling
-- Profession/Adventurer
-- Faction/The_Party
-- God/Byvitar/Voice
-- God/Byvitar/Champion
-- Location/The_Party
+- DnD/Kargaroth/Faction/The_Party
+- DnD/Kargaroth/God/Byvitar/Voice
+- DnD/Kargaroth/God/Byvitar/Champion
+- DnD/Kargaroth/Location/The_Party
 alias:
 - Moira
 ---

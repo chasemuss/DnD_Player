@@ -1,6 +1,6 @@
 ---
 tags:
-- Location/Starmouth
+- DnD/Kargaroth/Location/Starmouth
 alias:
 - 
 ---

@@ -1,9 +1,7 @@
 ---
 tags:
-- Race/Unknown
-- Profession/Unknown
-- God/Kyrena/Champion
-- Location/Unknown_Location
+- DnD/Kargaroth/God/Kyrena/Champion
+- DnD/Kargaroth/Location/Unknown_Location
 alias:
 - Uriphina
 ---

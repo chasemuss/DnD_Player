@@ -12,7 +12,7 @@ Current Status:
 ---
 # Other Notes
 ## Church of Bahamut
-Headquartered in [[Windsend]]
+Headquartered in [[Dungeons_and_Dragons/Player/Levasa_Razul/Windsend]]
 
 | Name        | Role        |
 | ----------- | ----------- |
@@ -20,7 +20,7 @@ Headquartered in [[Windsend]]
 | Morduk      | Leader      |
 | Edmond      | Book Keeper |
 | Arvin       |             |
-| [[Lorenzo]] |             |
+| [[Dungeons_and_Dragons/Player/Levasa_Razul/Lorenzo]] |             |
 
 ## Languages
 - 

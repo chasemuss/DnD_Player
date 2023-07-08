@@ -1,9 +1,7 @@
 ---
 tags:
-- Race/Devil
-- Profession/Unknown
-- Faction/Unknown
-- Location/Hell
+- DnD/Kargaroth/Faction/Unknown
+- DnD/Kargaroth/Location/Hell
 alias:
 - Asmodeus
 ---

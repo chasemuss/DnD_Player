@@ -1,7 +1,7 @@
 ---
 tags:
-- Faction/Malachite_League
-- Location/Starmouth
+- DnD/Kargaroth/Faction/Malachite_League
+- DnD/Kargaroth/Location/Starmouth
 alias:
 - 
 ---

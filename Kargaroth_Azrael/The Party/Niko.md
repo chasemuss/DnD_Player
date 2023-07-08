@@ -1,9 +1,7 @@
 ---
 tags:
-- Race/Tiefling
-- Profession/Druid
-- Faction/The Party
-- Location/The Party
+- DnD/Kargaroth/Faction/The_Party
+- DnD/Kargaroth/Location/The_Party
 alias:
 - Niko
 ---

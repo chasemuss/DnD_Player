@@ -1,6 +1,6 @@
 ---
 tags:
-- God/Cijun/Artifact/Atherius
+- DnD/Kargaroth/God/Cijun/Artifact/Atherius
 ---
 
 # Notes

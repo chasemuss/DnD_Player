@@ -1,9 +1,7 @@
 ---
 tags:
-- Race/Unknown
-- Profession/Unknown
-- God/Seraphina/Voice
-- Location/Unknown_Location
+- DnD/Kargaroth/God/Seraphina/Voice
+- DnD/Kargaroth/Location/Unknown_Location
 alias:
 - Levi
 ---
